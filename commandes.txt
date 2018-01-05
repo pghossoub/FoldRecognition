@@ -1,0 +1,1 @@
+'/home/sdv/m2bi/pghossoub/Documents/proj_long/FoldRecognition/src/mafft-7.313-without-extensions/binaries/ginsi' --thread -1 --addfull '/home/sdv/m2bi/pghossoub/Bureau/1VPBA_10_1_31_mafft2.fas' --keeplength '/home/sdv/m2bi/pghossoub/Bureau/1PN2A_10_235_261_mafft2.fas' > out.fas

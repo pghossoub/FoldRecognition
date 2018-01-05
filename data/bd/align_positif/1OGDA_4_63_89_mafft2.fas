@@ -1,0 +1,1383 @@
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//1OGDA_4_63_89_frag.pdb smoothed
+DTAAVLAEEMAVE-----KVIAAAEI-------------ASNQENAKFLENLF-------
+--------EIEYLSHE-
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//1OGDA_4_63_89_frag.pdb
+DTAAVLAEEMAVE-----KVIAAAEI------------KASNQENAKFLENLFSEQ----
+--------EIEYLSHE-
+>/home/wagram/gelly/CORNICHON/PROJECTS/DR/DR_2/PDBs_Stand/1OGDA:_|PDBID|CHAIN|SEQUENCE
+DTAAVLAEEMAVE-----KVIAAAEI------------KASNQENAKFLENLFSEQ----
+--------EIEYLSHEE
+>sp|Q87H78|RBSD_VIBPA D-ribose pyranase OS=Vibrio parahaemolyticus serotype O3:K6 (strain RIMD 2210633) GN=rbsD PE=3 SV=1
+DTVRVILSESQIE-----GVIIAEEF---SDVSPVLH-EALLKELSKESEETGKSI----
+--------EIKYVSHEA
+>sp|B1YL34|RBSD_EXIS2 D-ribose pyranase OS=Exiguobacterium sibiricum (strain DSM 17290 / JCM 13490 / 255-15) GN=rbsD PE=3 SV=1
+DVVRIVADDMAVE-----QVTLATEI------------KAANPVALEAVMKLDVPQ----
+----------DYVSHEA
+>sp|A7Z9G4|RBSD_BACA2 D-ribose pyranase OS=Bacillus amyloliquefaciens subsp. plantarum (strain DSM 23117 / BGSC 10A6 / FZB42) GN=rbsD PE=3 SV=1
+DVTSLVAGEMAVE-----KVIAASEI------------KDANPENASFIESHFSAQ----
+--------TIEYMSHEE
+>sp|Q65E56|RBSD_BACLD D-ribose pyranase OS=Bacillus licheniformis (strain ATCC 14580 / DSM 13 / JCM 2505 / NBRC 12200 / NCIMB 9375 / NRRL NRS-1264 / 
+EVTKLIADEMVVE-----KVTAAQEI------------ESVNPGQAAFLKAEFSNQ----
+--------KIDYIPHEA
+>sp|Q9K6K0|RBSD_BACHD D-ribose pyranase OS=Bacillus halodurans (strain ATCC BAA-125 / DSM 18197 / FERM 7344 / JCM 9153 / C-125) GN=rbsD PE=3 SV=1
+DIARILASDMEVE-----GLIAAEEV------------KEQNPAVHRALTG--TNI----
+--------PIHYLPHEQ
+>sp|A4J7I2|RBSD_DESRM D-ribose pyranase OS=Desulfotomaculum reducens (strain MI-1) GN=rbsD PE=3 SV=1
+DLAALIASEMVVE-----RVVIADEL-------------QVNQSLVKSIADEVTPV----
+--------SLEVVSHEQ
+>sp|A8FI51|RBSD_BACP2 D-ribose pyranase OS=Bacillus pumilus (strain SAFR-032) GN=rbsD PE=3 SV=1
+EVTSLLLQEMAVE-----HITVASEI------------QEANERDHLFLKKAFS-K----
+--------PLHDVDHET
+>sp|Q5WC30|RBSD_BACSK D-ribose pyranase OS=Bacillus clausii (strain KSM-K16) GN=rbsD PE=3 SV=1
+DIARVLASDMEVE-----LMMAATEV------------RTESPSIHQELEN--RQI----
+--------SIRYLPHDE
+>sp|C5CEY9|RBSD_KOSOT D-ribose pyranase OS=Kosmotoga olearia (strain TBF 19.5.1) GN=rbsD PE=3 SV=1
+DVLKALREELIIE-----KIILAKEI------------VDKNPEMHNAILKLFSDA----
+--------AVDYVEHSE
+>sp|Q8E280|RBSD_STRA5 D-ribose pyranase OS=Streptococcus agalactiae serotype V (strain ATCC BAA-611 / 2603 V/R) GN=rbsD PE=3 SV=1
+EVLDIYLENILVE-----KVILAEEI------------KEANPDQSRLLAKLDNSV----
+--------SIEYVSHNH
+>sp|Q9RDH8|RBSD_STRCO D-ribose pyranase OS=Streptomyces coelicolor (strain ATCC BAA-471 / A3(2) / M145) GN=rbsD PE=3 SV=1
+HLAGALAEELVVE-----GATAATEV------------REANAECAALLDGLFP------
+--------ALALVPHER
+>sp|B9KA10|RBSD_THENN D-ribose pyranase OS=Thermotoga neapolitana (strain ATCC 49049 / DSM 4359 / NS-E) GN=rbsD PE=3 SV=1
+DTLAVLLRELKVE-----RIILAKEM------------DQTKQELLKLIEKMNGPV----
+--------EVVTVPHKE
+>sp|Q49XF7|RBSD_STAS1 D-ribose pyranase OS=Staphylococcus saprophyticus subsp. saprophyticus (strain ATCC 15305 / DSM 20229) GN=rbsD PE=3 SV=1
+DVFHIVKSHMAIE-----KMTLASEM------------KTENES----LYNVLKEE----
+--------EIKFTSHEL
+>sp|A9BJQ0|RBSD_PETMO D-ribose pyranase OS=Petrotoga mobilis (strain DSM 10674 / SJ95) GN=rbsD PE=3 SV=1
+DTIKMVLYELEVE-----KVIIAGEM------------EVNNLKNYQKVIDIFSNI----
+--------EIEKKSHEE
+>tr|A0A0D0I096|A0A0D0I096_BACTM D-ribose pyranase OS=Bacillus thuringiensis subsp. morrisoni GN=rbsD PE=3 SV=1
+EIAAVLADDMAIE-----KVTLAEEV------------IINNAEVNKEIEQKLIEP----
+--------AFEYVSHEQ
+>tr|R9NDA5|R9NDA5_9FIRM D-ribose pyranase OS=Dorea sp. 5-2 GN=rbsD PE=3 SV=1
+DTLAVVAKEMKIE-----KVVLAEEI---------------REKNPKIHEEILAAC----
+--------EVAYVTHVE
+>tr|A0A080UQW5|A0A080UQW5_BACIU D-ribose pyranase OS=Bacillus subtilis subsp. niger GN=rbsD PE=3 SV=1
+DVTELLAEEMVVE-----KVTAASEI------------KTANPQIANFIENQFKKQ----
+--------PVDYLSHEE
+>tr|S9SH93|S9SH93_PAEAL D-ribose pyranase OS=Paenibacillus alvei TS-15 GN=rbsD PE=3 SV=1
+ETVNAISADMEIE-----KVVIAREI------------KTQNSEANAYIQHKFADC----
+--------DIEDCPHEE
+>tr|E4Q3F6|E4Q3F6_CALOW D-ribose pyranase OS=Caldicellulosiruptor owensensis (strain ATCC 700167 / DSM 13100 / OL) GN=rbsD PE=3 SV=1
+DTLKVVLSELYVE-----EVILAEEI------------ISENTKLYNQLNKLLEPI----
+--------SIRLLSHKE
+>tr|D6XZQ8|D6XZQ8_BACIE D-ribose pyranase OS=Bacillus selenitireducens (strain ATCC 700615 / DSM 15326 / MLS10) GN=rbsD PE=3 SV=1
+DLAGIFAKDLEVE-----KMVVAREI---------------SEHNPGLEEELIAGK----
+--------EMNYIDHES
+>tr|E3DLS9|E3DLS9_HALPG D-ribose pyranase OS=Halanaerobium praevalens (strain ATCC 33744 / DSM 2228 / GSL) GN=rbsD PE=3 SV=1
+ELSKVIAEDLVVE-----KAILAAEI------------KEKSPELEAEIIALLPNI----
+--------EIEYIAHKE
+>tr|R7CST6|R7CST6_9FIRM D-ribose pyranase OS=Dialister sp. CAG:357 GN=rbsD PE=3 SV=1
+SIAKVLADNMQIE-----KIYLAPET------------ASKNPKQWEALKEVFPED----
+--------KVEWVDHEQ
+>tr|W7CRX2|W7CRX2_BROTH D-ribose pyranase OS=Brochothrix thermosphacta DSM 20171 = FSL F6-1036 GN=rbsD PE=3 SV=1
+DTVAILVAEMVVE-----KITIATEI------------HTENAAMFAQIQSIVG-C----
+--------EIEYISHEA
+>tr|L7F6W9|L7F6W9_9ACTO D-ribose pyranase OS=Streptomyces turgidiscabies Car8 GN=rbsD PE=3 SV=1
+HLAGALAEELVVE-----GATAATEV------------REANPGAAKLLDGHFPEA----
+--------ALTLVPHER
+>tr|A0A034U4K4|A0A034U4K4_9NOCA D-ribose pyranase OS=Nocardia brasiliensis NBRC 14402 GN=rbsD PE=4 SV=1
+DTFAVILDEVTVE-----AAWGSAEV------------TATNREAADLLERL--------
+--------DAELLDHET
+>tr|W5XRT5|W5XRT5_9CORY D-ribose pyranase OS=Corynebacterium casei LMG S-19264 GN=CCASEI_03985 PE=4 SV=1
+DAGLPLPKDVAVE-----LVVEGATV-------------ASEQETGKLADT---------
+--------AVTYISHEE
+>tr|G9QJE1|G9QJE1_9BACI Uncharacterized protein OS=Bacillus smithii 7_3_47FAA GN=HMPREF1015_02589 PE=4 SV=1
+---------MVVE-----KAIAAEEI------------KTNNPAQFQFLESEFSG-----
+--------MVDFISHEQ
+>tr|A0A094K851|A0A094K851_9BACL D-ribose pyranase OS=Thermoactinomyces sp. Gus2-1 GN=rbsD PE=3 SV=1
+AISKVLSDDMVVE-----KVFAAEEI------------VAENAKQHAFLTSEFPD-----
+--------QISYVPHEE
+>tr|C5EWH0|C5EWH0_9FIRM D-ribose pyranase OS=Clostridiales bacterium 1_7_47FAA GN=rbsD PE=4 SV=1
+DIKYLMADEIAVE-----QVVLAEEI------------KSMSPKLHEEYRKRFPEK----
+--------KICYIPHSE
+>tr|A0A090QNN9|A0A090QNN9_9GAMM L-fucose mutarotase OS=Photobacterium aphoticum GN=JCM19237_2019 PE=4 SV=1
+DTVRVILTESQIE-----GVVMAEEFA-----------KVSPDLYQALLELLAVEQQRCG
+KPF-----SIQTVSHEE
+>tr|S4MF17|S4MF17_9ACTO Putative D-ribose pyranase OS=Streptomyces afghaniensis 772 GN=STAFG_7903 PE=4 SV=1
+AFAEVLEAELVVE-----GATAAEEV------------REANREASELLDGHFP------
+--------SLELVSHER
+>/home/wagram/gelly/CORNICHON/PROJECTS/DR/DR_2/PDBs_Stand/1OGDA:_|PDBID|CHAIN|SEQUENCE
+DTAAVLAEEMAVE-----KVIAAAEI------------KASNQENAKFLENLFSEQ----
+--------EIEYLSHEE
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//1OGDA_4_63_89_frag.pdb
+DTAAVLAEEMAVE-----KVIAAAEI------------KASNQENAKFLENLFSEQ----
+--------EIEYLSHE-
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3P13A_frag.pdb smoothed
+DVLATVLEEMEIQ-----KIYLAEEI-------------EHNPTQLQQIKQLISS-----
+--------EIIFIPHEE
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3P13A_frag.pdb
+DVLATVLEEMEIQ-----KIYLAEEI------------KEHNPTQLQQIKQLISSEI---
+--------EIIFIPHEE
+>sp|B6EKH2|RBSD_ALISL D-ribose pyranase OS=Aliivibrio salmonicida (strain LFI1238) GN=rbsD PE=3 SV=1
+DTVKATLAEMQIE-----GVIVAQEF------------KTVSPTLVQIEEELRGKPI---
+--------TISYIPHEE
+>sp|A3N2W7|RBSD_ACTP2 D-ribose pyranase OS=Actinobacillus pleuropneumoniae serotype 5b (strain L20) GN=rbsD PE=3 SV=1
+STLEVVLTELFVE-----RILLAEEI------------KQANPTIEQQLLEMINKQI---
+--------EIEYVVHSE
+>sp|A7N2S3|RBSD_VIBCB D-ribose pyranase OS=Vibrio campbellii (strain ATCC BAA-1116 / BB120) GN=rbsD PE=3 SV=1
+DTVRVILSESQIE-----GVIIAEEF------------ATVSPTELAQESGLTGKPI---
+--------AINYVSHED
+>sp|B8F777|RBSD_HAEPS D-ribose pyranase OS=Haemophilus parasuis serovar 5 (strain SH0165) GN=rbsD PE=3 SV=1
+SVLQAVSSELFIE-----KIVLAEEI------------KNINPMVIQQIEVQQKNTI---
+--------KIEYIPHNE
+>sp|Q8ENB2|RBSD_OCEIH D-ribose pyranase OS=Oceanobacillus iheyensis (strain DSM 14371 / JCM 11309 / KCTC 3954 / HTE831) GN=rbsD PE=3 SV=1
+DVLKAVKADMVIE-----GVTLAREI------------KVDNTENHKQIQEVINDI----
+--------PITYVTHEQ
+>sp|Q7UU60|RBSD_RHOBA D-ribose pyranase OS=Rhodopirellula baltica (strain SH1) GN=rbsD PE=3 SV=1
+RTLDAILSELKVE-----EIVIASEI------------HDHNQMLFEQMMKLFEAHP---
+--------KITEVSHVE
+>sp|C1D8A6|RBSD_LARHH D-ribose pyranase OS=Laribacter hongkongensis (strain HLHK9) GN=rbsD PE=3 SV=1
+DTLELVLADMQVE-----RAVFANEI------------SQHNPVIEHAATSMLDGK----
+--------PIGHVPHAE
+>sp|B2A2D7|RBSD_NATTJ D-ribose pyranase OS=Natranaerobius thermophilus (strain ATCC BAA-1301 / DSM 18059 / JW/NM-WN-LF) GN=rbsD PE=3 SV=1
+ETLETVLSELQVE-----AVVLTTET------------REVSPQTYHKIVDLLKQYI---
+--------QITEIDHES
+>sp|Q5KUX2|RBSD_GEOKA D-ribose pyranase OS=Geobacillus kaustophilus (strain HTA426) GN=rbsD PE=3 SV=1
+SVLDAVVDELEIE-----AIVLAEEI------------KDQNPDLYESIRARMGG-V---
+--------PVQFVPHEQ
+>sp|B2UZT8|RBSD_CLOBA D-ribose pyranase OS=Clostridium botulinum (strain Alaska E43 / Type E3) GN=rbsD PE=3 SV=1
+QTLKTILLELQIE-----EIILAKET------------KDVSPNLYEEIKEVIGD-V---
+--------KITFITHEE
+>sp|B5Y646|RBSD_COPPD D-ribose pyranase OS=Coprothermobacter proteolyticus (strain ATCC 35245 / DSM 5265 / BT) GN=rbsD PE=3 SV=1
+DTLRVILSELCVE-----EAIIATEM------------KEKSPETYAELLKILGNI----
+--------PIKEVSHEE
+>sp|C5CL95|RBSD_VARPS D-ribose pyranase OS=Variovorax paradoxus (strain S110) GN=rbsD PE=3 SV=1
+DVLKVVLSEMQVE-----RALIAREA------------IGQLPVQLAALPETVSHE----
+--------ELKRLSARA
+>sp|B9DUX3|RBSD_STRU0 D-ribose pyranase OS=Streptococcus uberis (strain ATCC BAA-854 / 0140J) GN=rbsD PE=3 SV=1
+DLLDVYLEHVLVE-----KIILAEEI------------KEQNPEQLSQILRKLDDGV---
+--------TVEYVSHEQ
+>sp|A0Q217|RBSD_CLONN D-ribose pyranase OS=Clostridium novyi (strain NT) GN=rbsD PE=3 SV=1
+QTLKAVLLEQQVE-----EVIIAHET------------KEVSPETFENIKKEIGD-V---
+--------KITFISHEE
+>sp|B1VU78|RBSD2_STRGG D-ribose pyranase 2 OS=Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350) GN=rbsD2 PE=3 SV=1
+DTVLVLLDELVVE-----GATAAEEI------------RDANPDAAALLDVHFP------
+--------WLEAVPHDE
+>sp|Q0TPX4|RBSD_CLOP1 D-ribose pyranase OS=Clostridium perfringens (strain ATCC 13124 / NCTC 8237 / Type A) GN=rbsD PE=3 SV=1
+ETLKAILEELQVE-----EVLIAKET------------EKVSPELFTEIKEIIKD-T---
+--------KITFISHEE
+>sp|A8F3M5|RBSD_THELT D-ribose pyranase OS=Thermotoga lettingae (strain ATCC BAA-301 / DSM 14385 / TMO) GN=rbsD PE=3 SV=1
+DILSIVLEELEIE-----KVLIAEEI------------KMISPKYHQKLLSIFPKNV---
+--------QIEYIPHEK
+>sp|B8G635|RBSD_CHLAD D-ribose pyranase OS=Chloroflexus aggregans (strain MD-66 / DSM 9485) GN=rbsD PE=3 SV=1
+ETVRVIASEMQVE-----KALIATET------------GQRSPHIRDGLGQLLPNT----
+--------PFEEVSHEQ
+>sp|A5W5E7|RBSD_PSEP1 D-ribose pyranase OS=Pseudomonas putida (strain F1 / ATCC 700007) GN=rbsD PE=3 SV=1
+SVLRVVLSELQVE-----RHVLAEEM------------QKVVPPALVEIERLKGKLG---
+--------KREWLTHED
+>sp|B0TIM6|RBSD_HELMI D-ribose pyranase OS=Heliobacterium modesticaldum (strain ATCC 51547 / Ice1) GN=rbsD PE=3 SV=1
+DLAAAILSEMVVE-----NATVAEEL-------------KPNEQIIEALAGRLKPV----
+--------QLHFINHES
+>sp|C4KZD1|RBSD_EXISA D-ribose pyranase OS=Exiguobacterium sp. (strain ATCC BAA-1283 / AT1b) GN=rbsD PE=3 SV=1
+EVLDVVESDLVVE-----RITIAEEI------------LTHNSTIADSLKERYTS-----
+---------IDMCSHED
+>sp|A5INL8|RBSD_THEP1 D-ribose pyranase OS=Thermotoga petrophila (strain RKU-1 / ATCC BAA-488 / DSM 13995) GN=rbsD PE=3 SV=1
+EVVEVILKELEVE-----KIILAEEM------------NEKNPETRDLLINLVNSNV---
+--------KIEFVPHEE
+>sp|Q82CM8|RBSD_STRAW D-ribose pyranase OS=Streptomyces avermitilis (strain ATCC 31267 / DSM 46492 / JCM 5070 / NCIMB 12804 / NRRL 8165 / MA-4680) GN
+EVLDGLLDELVVE-----GATAAREV------------REANPGATALLQTRFP------
+--------ALELVPHEE
+>sp|Q3KEY9|RBSD_PSEPF D-ribose pyranase OS=Pseudomonas fluorescens (strain Pf0-1) GN=rbsD PE=3 SV=1
+STLKVVLSEMQVE-----SHALAKEI------------FDKQPTALSTLDELNDEGG---
+--------RRDLLSHEQ
+>sp|Q38Z79|RBSD_LACSS D-ribose pyranase OS=Lactobacillus sakei subsp. sakei (strain 23K) GN=rbsD PE=3 SV=1
+QVLTNILSELEVQ-----KVYLANEI------------KTANPEQLAAIKALI-GET---
+--------PIEFIDHSQ
+>sp|Q4KEW9|RBSD_PSEF5 D-ribose pyranase OS=Pseudomonas fluorescens (strain Pf-5 / ATCC BAA-477) GN=rbsD PE=3 SV=1
+TTLKVLLSEMQVE-----RHVLAEEI------------LLKQPTPLAALEQLMNHE----
+--------DFKVLSRQA
+>sp|B0K1M3|RBSD_THEPX D-ribose pyranase OS=Thermoanaerobacter sp. (strain X514) GN=rbsD PE=3 SV=1
+DTLNTVLTELGVE-----KAYIAKEM------------IDKNNDLYLYLLELFGE-----
+--------KLIIISHED
+>sp|Q67RD6|RBSD_SYMTH D-ribose pyranase OS=Symbiobacterium thermophilum (strain T / IAM 14863) GN=rbsD PE=3 SV=1
+DVVETILAELQVE-----AAVVARET------------AERNPAVQEGLTRLLGGV----
+--------PVTTVSHEE
+>sp|Q03Q56|RBSD_LACBA D-ribose pyranase OS=Lactobacillus brevis (strain ATCC 367 / JCM 1170) GN=rbsD PE=3 SV=1
+DVLKNVLSELAVQ-----KIYLAEEI------------KTQNPEQLAAIQALLPD-V---
+--------EVAFVPHSQ
+>sp|Q1IC21|RBSD_PSEE4 D-ribose pyranase OS=Pseudomonas entomophila (strain L48) GN=rbsD PE=3 SV=1
+SVLRVVLSEMQVE-----RHVLAEEM------------FQAAPLGLIEVEQMHARG----
+--------EIEVMNHAD
+>sp|Q7NTN5|RBSD_CHRVO D-ribose pyranase OS=Chromobacterium violaceum (strain ATCC 12472 / DSM 30191 / JCM 1249 / NBRC 12614 / NCIMB 9131 / NCTC 9757)
+ETLDSILADFQCE-----RAVFAIEC------------RQHNPAVQDKAERMAQAGA---
+--------ALDFVSHEE
+>sp|Q88RZ2|RBSD_LACPL D-ribose pyranase OS=Lactobacillus plantarum (strain ATCC BAA-793 / NCIMB 8826 / WCFS1) GN=rbsD PE=3 SV=1
+QVLNNVLEELEVQ-----RIYLAEEI------------KVQNPKMLTAIKKRLPD-T---
+--------PITFIPHEE
+>sp|Q03DK3|RBSD_PEDPA D-ribose pyranase OS=Pediococcus pentosaceus (strain ATCC 25745 / 183-1w) GN=rbsD PE=3 SV=1
+QVLTNVLEELEVQ-----RIYLAEEI------------KTENPKMLENIKALM-PET---
+--------PITFMPHSD
+>sp|Q891M0|RBSD_CLOTE D-ribose pyranase OS=Clostridium tetani (strain Massachusetts / E88) GN=rbsD PE=3 SV=1
+DTLKSVMMELQVE-----EVQIANET------------QDLSSELFKEIKKQLGHA----
+--------KITFISHEE
+>sp|Q043F6|RBSD_LACGA D-ribose pyranase OS=Lactobacillus gasseri (strain ATCC 33323 / DSM 20243 / JCM 1131 / NCIMB 11718 / AM63) GN=rbsD PE=3 SV=1
+DVLEEVLKELEVQ-----KIYIAEEI------------KTENPKQLEAIKKTLPN-V---
+--------EIEFIPHSE
+>sp|Q04DK7|RBSD_OENOB D-ribose pyranase OS=Oenococcus oeni (strain ATCC BAA-331 / PSU-1) GN=rbsD PE=3 SV=1
+DVLKNVLTELEVQ-----KIYLADEI------------KTKNPEQLQAIKQLMPN-V---
+--------EIEFVPHSE
+>sp|B2G634|RBSD_LACRJ D-ribose pyranase OS=Lactobacillus reuteri (strain JCM 1112) GN=rbsD PE=3 SV=1
+DVLNNVLKEMKVQ-----KIYLAEEI------------KDQNPAQLENIKKALPD-V---
+--------EVAFMPHSE
+>sp|Q4LA40|RBSD_STAHJ D-ribose pyranase OS=Staphylococcus haemolyticus (strain JCSC1435) GN=rbsD PE=3 SV=1
+EVYEVLKQHMEIE-----HVTIAEEM------------EVDNAPIFEQVTKDFS------
+--------EIEQVNHET
+>sp|B3W789|RBSD_LACCB D-ribose pyranase OS=Lactobacillus casei (strain BL23) GN=rbsD PE=3 SV=1
+DVLKNVLSELQVQ-----KVYLAEEI------------KTENPEQLKQIQQLIDV-----
+--------PIAFIPHDQ
+>sp|Q82ZT7|RBSD_ENTFA D-ribose pyranase OS=Enterococcus faecalis (strain ATCC 700802 / V583) GN=rbsD PE=3 SV=1
+EVLNNVLEELAVQ-----RIYLAEEI------------KTENPDMLAAIETRL-PET---
+--------PISFIPHTE
+>sp|Q1AUT6|RBSD2_RUBXD D-ribose pyranase 2 OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN=rbsD2 PE=3 SV=1
+TVLSLINEEFITE-----KVVIAEEM------------AEFNPPLHGWLQKHFSGV----
+--------EFERRPHEE
+>sp|A4QDL6|RBSD_CORGB D-ribose pyranase OS=Corynebacterium glutamicum (strain R) GN=rbsD PE=3 SV=1
+DTWAVLKPEVVVE-----GAVIA----------------EGTP---ERIREMVDT-----
+--------DVEVVTHEE
+>sp|B9DIF1|RBSD_STACT D-ribose pyranase OS=Staphylococcus carnosus (strain TM300) GN=rbsD PE=3 SV=1
+DVLETVVTEMEIQ-----KIYLAEEI------------KMHNPDQLKAIKGLIAEDV---
+--------EIEFIPHSQ
+>sp|Q5FJ20|RBSD_LACAC D-ribose pyranase OS=Lactobacillus acidophilus (strain ATCC 700396 / NCK56 / N2 / NCFM) GN=rbsD PE=3 SV=1
+SVLKEVLKELQVQ-----KIYVADEI------------KDSNPKQLENIKRILPD-V---
+--------EIKFIPHTQ
+>sp|Q5HL86|RBSD_STAEQ D-ribose pyranase OS=Staphylococcus epidermidis (strain ATCC 35984 / RP62A) GN=rbsD PE=3 SV=1
+DVLETVLTEMEIQ-----KIYLAEEI------------KTANAQQLKAIKKLINDDV---
+--------EIKFIAHSE
+>sp|B7IGD0|RBSD_THEAB D-ribose pyranase OS=Thermosipho africanus (strain TCF52B) GN=rbsD PE=3 SV=1
+EVLKVILKELEVE-----QVILAHES-------------SKKFEQI--IKENIPRV----
+--------EFLKISHEE
+>sp|Q7A1V6|RBSD_STAAW D-ribose pyranase OS=Staphylococcus aureus (strain MW2) GN=rbsD PE=3 SV=1
+DVLATVLEEMEIQ-----KIYLAEEI------------KEHNPTQLQQIKQLISSEI---
+--------EIIFIPHEE
+>tr|E7NU43|E7NU43_TREPH D-ribose pyranase OS=Treponema phagedenis F0421 GN=rbsD PE=3 SV=1
+TVLRIILKDMYVE-----SYYIAKEI-------------DKSPAILEGIHKLLPDV----
+--------QECILSHDE
+>tr|W4NT83|W4NT83_9BURK D-ribose pyranase OS=Burkholderia caribensis MBA4 GN=rbsD PE=3 SV=1
+DVLDSVLADFKVE-----RAVFASES------------AEHNAAVVERIAQMASSKI---
+--------EVEQVPHET
+>tr|K9D434|K9D434_9FIRM D-ribose pyranase OS=Veillonella ratti ACS-216-V-Col6b GN=rbsD PE=3 SV=1
+DTICILKEHMQSE-----SIHIASPM------------KEMNPHNYAVLQELYPQDY---
+--------EWKTTDHEA
+>tr|A0A081NW44|A0A081NW44_9BACL D-ribose pyranase OS=Paenibacillus sp. MSt1 GN=rbsD PE=3 SV=1
+DTLSIVLEEMEVE-----ASFIADEM------------ERASPVSHEQLKRLTHEAK---
+--------AVIFTPYAN
+>tr|U7VC33|U7VC33_9FUSO D-ribose pyranase OS=Cetobacterium somerae ATCC BAA-474 GN=rbsD PE=3 SV=1
+KTLDTILSEMMVE-----EIVLASEI------------KTINPKVYNEILETFQKNP---
+--------KIVEVSHTE
+>tr|A0A081BPB2|A0A081BPB2_9BACT D-ribose pyranase OS=bacterium UASB14 GN=rbsD PE=3 SV=1
+DMLVVILGELKVQ-----EAIIAEEM------------LTRSPQIYEQLRQALPD-I---
+--------PIKHVPHET
+>tr|S6HZ45|S6HZ45_9GAMM D-ribose pyranase OS=Osedax symbiont Rs2 GN=rbsD PE=3 SV=1
+SVLEAVFSELQVE-----SVIIAREC------------QTQSPNFYQRLMAVIDQQV---
+--------AVALLSHSE
+>sp|C6BY79|RBSD_DESAD D-ribose pyranase OS=Desulfovibrio salexigens (strain ATCC 14822 / DSM 2638 / NCIB 8403 / VKM B-1763) GN=rbsD PE=3 SV=1
+DVVKAVLMEMELE-----SVELAEEF------------KDVSSDRHDELISVLEMEI---
+--------PVDYVRHVN
+>tr|A0A017RS31|A0A017RS31_9CLOT D-ribose pyranase OS=Fervidicella metallireducens AeB GN=rbsD PE=3 SV=1
+DTLKAVLLELQIE-----EAIVAVET------------KDVSPSVFDAIKNEIDDV----
+--------KITLVTHEE
+>tr|A0A0B4REJ6|A0A0B4REJ6_9BACL D-ribose pyranase OS=Planococcus sp. PAMC 21323 GN=rbsD PE=3 SV=1
+TILDAVLADFEAE-----AAFIAQEI------------TNHNPHIEQEVMNKITAE----
+-----------YITHEE
+>tr|A0A011A254|A0A011A254_9CLOT D-ribose pyranase OS=Clostridium sp. ASBs410 GN=rbsD PE=3 SV=1
+ETLDAVTDDMAVE-----SYILAEEI------------KDHNPEMVVNIRSMMKKKA---
+--------VECFTSHEN
+>tr|K8E8T2|K8E8T2_9FIRM D-ribose pyranase OS=Desulfotomaculum hydrothermale Lam5 = DSM 18033 GN=rbsD PE=3 SV=1
+DVLQAILFEMVVE-----KATVAQEL-------------VPN---VQLMDNIAAQLV---
+--------AVQKVSHAE
+>tr|G4CN96|G4CN96_9NEIS D-ribose pyranase OS=Neisseria wadsworthii 9715 GN=rbsD PE=3 SV=1
+QVLDAVLQEICLE-----KITLAEET------------EKRSPKQIQTLKQLSQTSR---
+--------AVVITPYTN
+>tr|T0BMC0|T0BMC0_9BACL D-ribose pyranase OS=Alicyclobacillus acidoterrestris ATCC 49025 GN=rbsD PE=3 SV=1
+DVLTVILSELAVE-----KAVVADEL------------RQSGHEIYDTIVEKVGH-----
+--------AVELVSHEE
+>tr|X7F354|X7F354_9RHOB D-ribose pyranase OS=Roseivivax isoporae LMG 25204 GN=rbsD PE=3 SV=1
+EVLDTVLEEMQVE-----RAAIAEE--------------APQALRARFAERL--------
+--------PVETMPHAQ
+>tr|X1AIQ1|X1AIQ1_9ZZZZ Marine sediment metagenome DNA, contig: S01H4_C05022 OS=marine sediment metagenome GN=S01H4_12028 PE=3 SV=1
+QTLEVVLNELFVE-----RAIVAEEI------------LSYSPHIYKGIQKLLLNA----
+--------PIDMIKHTE
+>tr|E8QWG2|E8QWG2_ISOPI RbsD or FucU transport OS=Isosphaera pallida (strain ATCC 43644 / DSM 9630 / IS1B) GN=Isop_0252 PE=4 SV=1
+DVFKAIAEELVIE-----SVVVAHEI------------HDANPRLFHEIRRVIEPGV---
+--------ELEEVPHRE
+>tr|D8MCV6|D8MCV6_LEUGG D-ribose pyranase OS=Leuconostoc gelidum subsp. gasicomitatum (strain DSM 15947 / CECT 5767 / JCM 12535 / LMG 18811 / TB1-10) G
+EVLDVILLELEVQ-----KIYLAEEI------------KVKNPDILEQINRRFDGDV---
+--------SIEFISHND
+>tr|D5T392|D5T392_LEUKI D-ribose pyranase OS=Leuconostoc kimchii (strain IMSNU 11154 / KCTC 2386 / IH25) GN=rbsD PE=3 SV=1
+DVLDAVLSELAVQ-----KIYLAEEI------------KLENAAMLEKIYERFSQDV---
+--------EIDFISHAQ
+>tr|K1JAS0|K1JAS0_AERHY D-ribose pyranase OS=Aeromonas hydrophila SSU GN=rbsD PE=3 SV=1
+TVLTALLTDLVVE-----KVIMASEI------------KAAHQALVDQLEAHAAAQI---
+--------TIEYCLHEE
+>tr|U7UQC9|U7UQC9_9FIRM D-ribose pyranase OS=Peptoniphilus sp. BV3C26 GN=rbsD PE=3 SV=1
+DVLEKVLEELHIE-----GAVIDLEL------------KEKNPQYREKILKLLGD-A---
+--------KVEEIPHEE
+>tr|G9WJ23|G9WJ23_9LACT D-ribose pyranase OS=Oenococcus kitaharae DSM 17330 GN=rbsD PE=3 SV=1
+DVVKTILQELEVQ-----RAYVALEM------------KTNNPEGLKSLIDILGSQV---
+--------EIVFIPHEQ
+>tr|I2F8D7|I2F8D7_9THEM D-ribose pyranase OS=Mesotoga prima MesG1.Ag.4.2 GN=rbsD PE=3 SV=1
+DVLDPVLEELEVE-----KVIFSEEM------------KTVSPKCLEETLKHLPEGI---
+--------EVEFVPHVK
+>tr|G5KD41|G5KD41_9STRE D-ribose pyranase OS=Streptococcus urinalis 2285-97 GN=rbsD PE=3 SV=1
+EVLEEYLTHVLVE-----KVYLAEEI------------KSQNPQQLETIKELLGDTI---
+--------SIEFMTHET
+>tr|S0FGD3|S0FGD3_9FIRM D-ribose pyranase OS=[Clostridium] termitidis CT1112 GN=rbsD PE=3 SV=1
+QVLSAVLEETQVE-----FYYLAEEI------------AGKNVCLLQYIKASLPN-V---
+--------DNEFMPHSE
+>tr|I3TF87|I3TF87_THEC1 RbsD or FucU transport OS=Thermogladius cellulolyticus (strain 1633) GN=TCELL_1002 PE=3 SV=1
+EVLGVVLSNVVVE-----RAVLANEI------------KDRNPEMHKKILELIEANF---
+--------ELKYVPHEE
+>tr|T0SE83|T0SE83_LACLC D-ribose pyranase OS=Lactococcus lactis subsp. cremoris TIFN6 GN=rbsD PE=3 SV=1
+EVLDIYLENILVE-----KIYLADEI------------KENNPEQLKILLTKLSADV---
+--------EVVFVSHET
+>tr|U6FYV3|U6FYV3_STACP D-ribose pyranase OS=Staphylococcus capitis CR01 GN=rbsD PE=3 SV=1
+DVLENVLTEVEIQ-----KIYLAEEI------------KTNNSTQLKAIKHLIEEHV---
+--------EIEFIPHSK
+>tr|I4D7C5|I4D7C5_DESAJ D-ribose pyranase OS=Desulfosporosinus acidiphilus (strain DSM 22704 / JCM 16185 / SJ4) GN=rbsD PE=3 SV=1
+DVFNSVLTELSVE-----RLTVAQEL------------QGAHPDLFAKIKGATDA-----
+--------PIDLVSHEM
+>tr|X2H1X6|X2H1X6_9GAMM D-ribose pyranase OS=Gilliamella apicola GN=rbsD PE=3 SV=1
+QVFELISHDMQIE-----RIILATEI------------KEKNPERISQLEQIQNNEI---
+--------EITFFPHEM
+>sp|Q883I5|RBSD_PSESM D-ribose pyranase OS=Pseudomonas syringae pv. tomato (strain DC3000) GN=rbsD PE=3 SV=1
+SVLDVVLSEMQVE-----SHVLAREM------------ADIKPPALQIIESLNLDDG---
+--------QQRWISHED
+>tr|A0A099JU27|A0A099JU27_9MICO D-ribose pyranase OS=Cryobacterium roopkundense GN=rbsD PE=3 SV=1
+DVLDTVLGELVVE-----RVTLASEI------------AETSPAVLAELHGRFDPLI---
+--------PIELMPHVD
+>tr|X1NQ92|X1NQ92_9ZZZZ Marine sediment metagenome DNA, contig: S06H3_S11109 OS=marine sediment metagenome GN=S06H3_41567 PE=3 SV=1
+KVLPAVLSELKVE-----EAYIAMEI------------KEKNPQTLNLISSLIR------
+--------EIKFITHEE
+>tr|G5I9S9|G5I9S9_9FIRM D-ribose pyranase OS=[Clostridium] hathewayi WAL-18680 GN=rbsD PE=3 SV=1
+QVLEAVNEELVSE-----AYILAEEI------------KEGNRELETQVHELLKEQ----
+--------PVTYVPHEE
+>tr|D6GRT6|D6GRT6_FILAD D-ribose pyranase OS=Filifactor alocis (strain ATCC 35896 / D40 B5) GN=rbsD PE=3 SV=1
+DILETVLSELCVE-----KYIVAEEL------------HFQNAAMEQYIKKTMGS-I---
+--------PSEVVSHEE
+>tr|F3NIA4|F3NIA4_9ACTO D-ribose pyranase OS=Streptomyces griseoaurantiacus M045 GN=rbsD PE=3 SV=1
+EVLDGLLEELVVE-----GALAAEEV------------DAANPAAAALLRHRLADLP---
+--------GLQLVPHAR
+>tr|N1UPY0|N1UPY0_9MICC D-ribose pyranase OS=Arthrobacter crystallopoietes BAB-32 GN=D477_020098 PE=4 SV=1
+DVLEAVLAELEIE-----ASFAATEA------------GAEAPVRIEELKSMLPQA----
+--------ALIIRTGEA
+>tr|A0A0D0V6P9|A0A0D0V6P9_9ACTO Micromonospora carbonacea strain JXNU-1 contig1, whole genome shotgun sequence OS=Micromonospora carbonacea GN=TK50_16210 PE=4 
+TVLDLVADEIIVE-----GVVVAEDV------------TTHNRPLADWLGQRFPGA----
+--------PLTTRPHAE
+>tr|S3JN78|S3JN78_TRESO Uncharacterized protein OS=Treponema socranskii subsp. paredis ATCC 35535 GN=HMPREF1221_01617 PE=4 SV=1
+EILELVTSDLIYE-----RCIVAKEQ------------EEYNPLHFANVKKIIDRC----
+--------KVETIPHEA
+>tr|R0A754|R0A754_9FIRM Uncharacterized protein OS=[Clostridium] bolteae 90A9 GN=HMPREF1085_04073 PE=4 SV=1
+DTLKAVLNEIIVE-----KFIVVDHM------------EIYNPQGLQQVQKMMRSRQ---
+--------SLVFIRTGE
+>tr|N1JMM7|N1JMM7_9THEM D-ribose pyranase OS=Mesotoga infera GN=rbsD PE=4 SV=1
+DVVKVVLEELEIE-----KVIIADET------------RSVSPEIYSQLKEIVSKVN---
+--------DIINIPHPE
+>tr|R6WBJ3|R6WBJ3_9FIRM ABC-type ribose transport system auxiliary component OS=Dorea sp. CAG:317 GN=BN605_00248 PE=4 SV=1
+DVVKAVLEELVIE-----GYIVSEET------------KQVSPEKYQEFKNILDLEM---
+--------NEETIPHME
+>tr|I0JTG6|I0JTG6_HALH3 D-ribose pyranase OS=Halobacillus halophilus (strain ATCC 35676 / DSM 2266 / JCM 20832 / NBRC 102448/ NCIMB 2269) GN=rbsD PE=3 
+TVLRAVTGDMKIE-----RATLAEEI------------QTNNPTVHQQVSDCLAD-I---
+--------PKHYTTHEN
+>tr|A0A022KQ01|A0A022KQ01_9MICO D-ribose pyranase OS=Brachybacterium muris UCD-AY4 GN=rbsD PE=3 SV=1
+DTFVVILSEVAIE-----GAVRAVE--------------AEGQDAGRWLAARFP------
+--------DAEAVPHEE
+>tr|S5SS57|S5SS57_9CORY D-ribose pyranase OS=Corynebacterium maris DSM 45190 GN=rbsD PE=3 SV=1
+DVLAALLAELEVE-----GVTVADQA-------------------PQAVHDLIPEDV---
+--------EIITVDHED
+>tr|L1MDW8|L1MDW8_9CORY D-ribose pyranase OS=Corynebacterium durum F0235 GN=rbsD PE=3 SV=1
+DVVAAVFDEVEVE-----SVVLAQET-------------------PEEVRALFSS-----
+--------PTTYVDHEA
+>tr|U7MED2|U7MED2_9ACTO D-ribose pyranase OS=Propionibacterium sp. KPL1852 GN=rbsD PE=3 SV=1
+EVFDAILDEVAVE-----GATIATEA------------VGHEPE--EWVRNRID------
+--------EVKAVSHED
+>tr|H8H116|H8H116_DEIGI D-ribose pyranase OS=Deinococcus gobiensis (strain DSM 21396 / JCM 16679 / CGMCC 1.7299 / I-0) GN=rbsD PE=3 SV=1
+DVLRAVLTELVVE-----GATVAAET------------RQRSPEWYAGLREVLGEVL---
+--------EPAELPHEA
+>tr|A0A094Q387|A0A094Q387_9ZZZZ Uncharacterized protein OS=freshwater metagenome GN=GM51_9500 PE=4 SV=1
+DVLDAILPYLDLT-----GLYLANEF------------SEKDPNTVSKYKKHFEK-I---
+--------PIILIPHEE
+>tr|J0MNJ3|J0MNJ3_9LACT D-ribose pyranase OS=Weissella koreensis KCTC 3621 GN=rbsD PE=3 SV=1
+DVLAATLSEMKIQ-----KAYLAEEI------------KTDNPEQFAAIQALLDDDV---
+--------EVVFISHDE
+>tr|G0UG14|G0UG14_9LACT D-ribose pyranase OS=Weissella thailandensis fsh4-2 GN=WT2_00692 PE=4 SV=1
+SVLAATLSEMKVQ-----RVFLAEEI------------KSDNVEQHRAILDLLDTDV---
+--------EVVYIAHDE
+>tr|R5ERS4|R5ERS4_9GAMM D-ribose pyranase OS=Succinatimonas sp. CAG:777 GN=rbsD PE=3 SV=1
+DVFKVVDAEAKFQ-----KVTIASEA------------KEANPAFYQKLHEWAKNGV---
+--------EVVEVPHEQ
+>tr|R5DE50|R5DE50_9FIRM D-ribose pyranase OS=Dorea sp. CAG:105 GN=BN457_00257 PE=4 SV=1
+DVMKAVLNEVAIE-----KIMMFAPL------------TEANPTIYNKLNDTLAKQE---
+--------KVLANPDEF
+>tr|M0CI83|M0CI83_9EURY Ribose ABC transporter auxiliary component OS=Halosimplex carlsbadense 2-9-1 GN=C475_17613 PE=4 SV=1
+PEVATVLEELIPE-----RVVYADDV------------PEMNPDFDSFLRDLYDGSA---
+--------DLETVPHEE
+>tr|R6FP02|R6FP02_9FIRM D-ribose pyranase OS=Firmicutes bacterium CAG:145 GN=BN497_00164 PE=4 SV=1
+DLAYALADEVAVQ-----EMVLMEGV------------VSSNEYLHDQILHMVHNQ----
+--------EVGYLSFAD
+>tr|A0A0D8UL47|A0A0D8UL47_YERPE Carbohydrate transporter OS=Yersinia pestis subsp. microtus bv. Ulegeica GN=RN23_14370 PE=4 SV=1
+ELAAALAKEIFVE-----EVRFASEV------------RDCHPQLYRDVQTLYTGSA---
+--------EFQAASHET
+>tr|A0A070HH90|A0A070HH90_ECOLX L-fucose mutarotase OS=Escherichia coli 2-156-04_S1_C1 GN=AB00_2316 PE=4 SV=1
+DILSVLRQEIFIE-----NVIFADEV------------PQKNPKLLQRVTEIFTSGA---
+--------DFTLIPHAQ
+>tr|C2SFI5|C2SFI5_BACCE D-ribose pyranase OS=Bacillus cereus BDRD-ST196 GN=bcere0014_5680 PE=4 SV=1
+---------MAIE-----KVMLAEEV------------IINNAEVNKEVERLIEP-----
+--------AFEYVSHKE
+>tr|J3DNM6|J3DNM6_9PSED D-ribose pyranase OS=Pseudomonas sp. GM102 GN=rbsD PE=3 SV=1
+STLKVVLSEMQVE-----SHVLAHEI------------LDKKPSALSALDELNAEGG---
+--------RRELLSHDQ
+>tr|A0A0B2XQP7|A0A0B2XQP7_LACCU D-ribose pyranase OS=Lactobacillus curvatus GN=rbsD PE=3 SV=1
+DVVKNILSELQLQ-----EVYLAEEI------------KTENPQQLAAIKEIIDV-----
+--------PIKFIPHDK
+>tr|A0A0C2RFN8|A0A0C2RFN8_9BACL D-ribose pyranase OS=Paenibacillus sp. VKM B-2647 GN=rbsD PE=3 SV=1
+DTLRTVLEEMQVE-----KYYIAQET------------RTRNPDIHRQIQTAMSSHE---
+--------ELKLLTHQA
+>tr|E3PV76|E3PV76_CLOSD D-ribose pyranase OS=Clostridium sticklandii (strain ATCC 12662 / DSM 519 / JCM 1433 / NCIB 10654) GN=rbsD PE=3 SV=1
+ATLALIASNMVME-----KVILAEEI------------KENNPEMLKKIKEILSDKI---
+--------ELEFVSHEY
+>tr|U7FLN1|U7FLN1_9RHOB D-ribose pyranase OS=Labrenzia sp. C1B10 GN=rbsD PE=3 SV=1
+DVLEALADEMIVE-----QAVFADEA------------SEDLVTQLAHWAADTGKPI---
+--------EHVRMSHED
+>tr|A0A074JG77|A0A074JG77_9RHOB D-ribose pyranase OS=Thioclava sp. DT23-4 GN=rbsD PE=3 SV=1
+DVLAAIMAELQIE-----RVQIATEF------------VEHSRSRMDAHTEVQGAPI---
+--------VIERISHED
+>tr|R9LCR2|R9LCR2_9BACL D-ribose pyranase OS=Paenibacillus barengoltzii G22 GN=rbsD PE=3 SV=1
+ETLETILEEMQVE-----RYTVAAEM------------KEASPELYEKTALLLEGAA---
+--------EFKQLTREA
+>tr|I9LHW6|I9LHW6_9FIRM D-ribose pyranase OS=Pelosinus fermentans B4 GN=rbsD PE=3 SV=1
+ETLCVVLQELEVE-----SAVIANEM------------EAVSPKMYEGVKALLGAV----
+--------PIHRCSHEE
+>tr|D4ZG03|D4ZG03_SHEVD D-ribose pyranase OS=Shewanella violacea (strain JCM 10179 / CIP 106290 / LMG 19151 / DSS12) GN=rbsD PE=3 SV=1
+DTLRIVATELQIE-----SVVIAEEM------------LVHNPGMHTQLLQLLDEII---
+--------SLSTVSHQA
+>tr|B0NC19|B0NC19_CLOSV D-ribose pyranase OS=[Clostridium] scindens ATCC 35704 GN=rbsD PE=3 SV=1
+QVMDAVLDETEVE-----FYTLAEEI------------TEKNPELLAYIKELPGVES---
+--------EMIFTPYPN
+>tr|R5I6U9|R5I6U9_9FIRM D-ribose pyranase OS=Ruminococcus sp. CAG:60 GN=BN729_01519 PE=4 SV=1
+QVMDAVLAETEVE-----AYTIANEI------------EEKNPELLAYIQQNLPEA----
+--------EESRIDHVD
+>tr|G5IHK3|G5IHK3_9FIRM Uncharacterized protein OS=[Clostridium] hathewayi WAL-18680 GN=HMPREF9473_02981 PE=4 SV=1
+QVLDGILDEFSVE-----KVYLSEGI------------HHYAPKQLEEYEKRFGDKC---
+--------PIVFVKDEE
+>tr|A0A023E9V1|A0A023E9V1_AERSA D-ribose pyranase OS=Aeromonas salmonicida subsp. masoucida NBRC 13784 GN=rbsD PE=3 SV=1
+TVLKALLTDLVVE-----KVIMASEI------------KLISPDTHQALLDQIETHI---
+--------AIEYCLHEE
+>tr|I0W9N1|I0W9N1_9NOCA D-ribose pyranase OS=Rhodococcus imtechensis RKJ300 = JCM 13270 GN=W59_33363 PE=4 SV=1
+DLLSVLCEVGDFE-----AAIVTEDM------------VTANPEARKFVSALVGEEH---
+--------ELRYLPEFY
+>tr|U3AKB8|U3AKB8_9VIBR L-fucose mutarotase OS=Vibrio ezurae NBRC 102218 GN=VEZ01S_33_00530 PE=4 SV=1
+ELLSALAKCGHKA-----KILIAAEIIYLNFAPDMLNTELINVEAAEMMENTIYDEP---
+--------EGTPISHQP
+>tr|X1LQW1|X1LQW1_9ZZZZ Marine sediment metagenome DNA, contig: S06H3_L04376 (Fragment) OS=marine sediment metagenome GN=S06H3_19703 PE=4 SV=1
+EVLKEILKYLPVE-----KVVIAKET------------KNVNPTMFNDIVKLFDEGV---
+--------DIKIIPH--
+>tr|W6TMH3|W6TMH3_9SPHI Uncharacterized protein OS=Pedobacter sp. V48 GN=N824_05950 PE=4 SV=1
+PVLKQVLTQINLS-----GIYQDKEL------------GFITESQARGVKQFVQES----
+--------KTIFIPYTS
+>tr|S0GPX6|S0GPX6_9PORP Uncharacterized protein OS=Parabacteroides goldsteinii dnLKV18 GN=C803_02304 PE=4 SV=1
+DMAYPLQSQEGIK-----TIFVTAEI---DNVYQDREMKDTDASGIQEVASLFGG-----
+--------YLQYVSHEE
+>RBSD_PSELT/1-1 ; RbsD_FucU ; RbsD / FucU transport protein family
+DILSIVLEELEIE-----KVLIAEEI------------KMISPKYHQKLLSIFPKNV---
+--------QIEYIPHEK
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3P13A_frag.pdb
+DVLATVLEEMEIQ-----KIYLAEEI------------KEHNPTQLQQIKQLISSEI---
+--------EIIFIPHEE
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3E7NA_frag.pdb smoothed
+QVVDVVTRE.QVE-----AAILATEI-------------QQNPQLHETLLTHL-EQLQQH
+QGN-----KISYTTHEQ
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3E7NA_frag.pdb
+QVVDVVTRE.QVE-----AAILATEI------------KQQNPQLHETLLTHL-EQLQQH
+QGN---TIKISYTTHEQ
+>sp|A8GLK3|RBSD_SERP5 D-ribose pyranase OS=Serratia proteamaculans (strain 568) GN=rbsD PE=3 SV=1
+QVLGVVTQEMQVE-----SAILAEEI------------VKQNPQLHRALLAQL-TELGQH
+QGN---TISVSYISHSA
+>sp|Q9KN38|RBSD_VIBCH D-ribose pyranase OS=Vibrio cholerae serotype O1 (strain ATCC 39315 / El Tor Inaba N16961) GN=rbsD PE=3 SV=2
+ETVRVILSESQIE-----SVIVAQEF------------AQVSPVLHEALYREL-KAEEQL
+CGK---PIAIQYISHEA
+>sp|Q9CP97|RBSD_PASMU D-ribose pyranase OS=Pasteurella multocida (strain Pm70) GN=rbsD PE=3 SV=1
+QTFHAVVTEMFVE-----RAIIAEEI------------KEKNPKILTALLNSL-AQLEQQ
+QGN---QIEVQYVSHDM
+>sp|A7MMV4|RBSD_CROS8 D-ribose pyranase OS=Cronobacter sakazakii (strain ATCC BAA-894) GN=rbsD PE=3 SV=2
+QVVDVVTQEMQVE-----AAILAEEI------------KQHNPQLHETLLGQI-ERLQQH
+QGN---TITVRYVSHEQ
+>sp|Q6LH12|RBSD_PHOPR D-ribose pyranase OS=Photobacterium profundum GN=rbsD PE=3 SV=1
+DTVKAVLGEMQIE-----GVVMAEEF------------AQVSPDLHQALIALI-RNEELL
+CGK---KITLSYVSHEA
+>sp|Q57HW2|RBSD_SALCH D-ribose pyranase OS=Salmonella choleraesuis (strain SC-B67) GN=rbsD PE=3 SV=1
+QVVDVVTREMQVE-----AAILATEI------------KQQNPQLHETLLTHL-EQLQQH
+QGN---TIKISYTTHEQ
+>sp|Q7MEV2|RBSD_VIBVY D-ribose pyranase OS=Vibrio vulnificus (strain YJ016) GN=rbsD PE=3 SV=1
+ETVRVMLSESQIE-----GAIVATEF------------AEVSPELYQALVAEL-QCEEEK
+TGK---VLSLTHVSHEE
+>sp|C6DJF3|RBSD_PECCP D-ribose pyranase OS=Pectobacterium carotovorum subsp. carotovorum (strain PC1) GN=rbsD PE=3 SV=1
+QVVSVVTSEMQVE-----AAILAEEI------------IEKNPAVHDALLDQL-KQLEQH
+QGN---SIALHYVSHEE
+>sp|A8GZV5|RBSD_SHEPA D-ribose pyranase OS=Shewanella pealeana (strain ATCC 700345 / ANG-SQ1) GN=rbsD PE=3 SV=1
+ATVKVWLATSQIE-----GIVLAQEF------------ADVSPECHQALLAEI-EAEQQA
+TGR---TFSVEYISHEA
+>sp|A1SRU1|RBSD_PSYIN D-ribose pyranase OS=Psychromonas ingrahamii (strain 37) GN=rbsD PE=3 SV=1
+DTVRVILSEMQIT-----GVLLASEF------------KQVSPDLHRALIELV-EQ-EKL
+AGS---RIELIYISHEA
+>sp|C5BDG5|RBSD_EDWI9 D-ribose pyranase OS=Edwardsiella ictaluri (strain 93-146) GN=rbsD PE=3 SV=1
+QVIETMTAEMQVE-----RAVLAQEM------------VEANPDIHRQLVTWL-QRLAQT
+QGN---AIHIDYVSHGQ
+>sp|P44734|RBSD_HAEIN D-ribose pyranase OS=Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd) GN=rbsD PE=3 SV=1
+QTLNVVTNEMYVE-----RVVIAEEI------------KEKNPEILTALLTQL-QKLESH
+QGN---QIQVEFVSHET
+>sp|A1JHR8|RBSD_YERE8 D-ribose pyranase OS=Yersinia enterocolitica serotype O:8 / biotype 1B (strain NCTC 13174 / 8081) GN=rbsD PE=3 SV=1
+QVFEVVTQEMQVE-----SAYLAQEI------------VKNNPQLHETLLAQL-SQLEQH
+QGN---QIALHYISHEA
+>sp|A6VKS7|RBSD_ACTSZ D-ribose pyranase OS=Actinobacillus succinogenes (strain ATCC 55618 / 130Z) GN=rbsD PE=3 SV=1
+ETLYAVTSEMFVE-----RAILASEI------------KEKNPEILTALLAHL-SQLATK
+QGN---QIPVEFVSHEK
+>sp|B4EU30|RBSD_PROMH D-ribose pyranase OS=Proteus mirabilis (strain HI4320) GN=rbsD PE=3 SV=1
+SVLQTITHEMQVE-----AVMLAIEI------------KNINPLLFSEITRYL-HLLEQQ
+QKK---PIEIIYVTHEE
+>sp|B0UV47|RBSD_HISS2 D-ribose pyranase OS=Histophilus somni (strain 2336) GN=rbsD PE=3 SV=1
+QTVDVVISEMFVE-----HAVVAKEI------------REKNPQIHDALLDSL-RKLSEQ
+QGN---CIAVEYVEHEE
+>sp|Q7NA80|RBSD_PHOLL D-ribose pyranase OS=Photorhabdus luminescens subsp. laumondii (strain TT01) GN=rbsD PE=3 SV=1
+SVLNVVTQEMQIE-----AAFLAEEI------------IGHNPLIHQLILTQI-KELEKQ
+QGN---SITVDYISHNV
+>sp|A1TUV3|RBSD_ACIAC D-ribose pyranase OS=Acidovorax citrulli (strain AAC00-1) GN=rbsD PE=3 SV=1
+DVLAAVLSEMQVE-----RALVATEA------------VERAGGALPGWAGAL-------
+------PVAPQTLSHEE
+>sp|Q1AXG1|RBSD1_RUBXD D-ribose pyranase 1 OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129) GN=rbsD1 PE=3 SV=1
+EVVDLAFRELVVE-----EAVAAREV------------EGANPDCHALLASRL-PELKKL
+RAA---DARLVVRTGEA
+>sp|C3JZP4|RBSD_PSEFS D-ribose pyranase OS=Pseudomonas fluorescens (strain SBW25) GN=rbsD PE=3 SV=1
+SALRIVLSEMQVE-----SHVLAEEI------------LLKQPPALNELNTLSDEAALG-
+--------ERRLVSHEA
+>sp|Q6ABP6|RBSD_PROAC D-ribose pyranase OS=Propionibacterium acnes (strain KPA171202 / DSM 16379) GN=rbsD PE=3 SV=1
+EVFDAILDEVVVD-----GATIAHEA------------LGHEPE--SWVRERI-E-----
+--------EVHTVSHED
+>sp|B1VNF2|RBSD1_STRGG D-ribose pyranase 1 OS=Streptomyces griseus subsp. griseus (strain JCM 4626 / NBRC 13350) GN=rbsD1 PE=3 SV=1
+TVLGLIADELVVE-----GVVRAEDV------------PSHNPRLDSWLHERFSGA----
+--------EFTTRPHAE
+>tr|J9GW08|J9GW08_9STAP D-ribose pyranase OS=Staphylococcus sp. OJ82 GN=rbsD PE=3 SV=1
+EVFNLIKKHMEIE-----QMTLAEEM------------ITQNTTLYQTLSA---ENI---
+--------EIKTTSHEQ
+>tr|S6EIL1|S6EIL1_AVIPA D-ribose pyranase OS=Avibacterium paragallinarum JF4211 GN=rbsD PE=3 SV=1
+SVFDAVVGECFVE-----RVILAKEI------------ERQNPSIHQALLQKL-EQLARQ
+QNN---EITVDYVFHEE
+>tr|K8WYY8|K8WYY8_9ENTR D-ribose pyranase OS=Providencia sneebia DSM 19967 GN=rbsD PE=3 SV=1
+SVLSVITQEMQVE-----KAILAEEI------------NTINPEMKNRILAHL-DLLAQM
+QGK---PIDVEFCDHEN
+>tr|M0Q8Q5|M0Q8Q5_EDWTA D-ribose pyranase OS=Edwardsiella tarda ATCC 15947 = NBRC 105688 GN=rbsD PE=3 SV=1
+QVVETVTAEMQVE-----RAVVAQEM------------AQINPDVHQQLLDWL-QQLGRR
+QGN---DIQIDYVTHSQ
+>tr|E2P4N8|E2P4N8_PASHA D-ribose pyranase OS=Mannheimia haemolytica serotype A2 str. BOVINE GN=rbsD PE=3 SV=1
+QTFDVVVSELFVE-----RVLLAEEI------------KHKNPQVLAALLERL-TQLEQA
+QQN---KIQIDYVNHEI
+>tr|N9ZYB0|N9ZYB0_9FIRM Uncharacterized protein OS=[Clostridium] bolteae 90B8 GN=HMPREF1097_00481 PE=4 SV=1
+DVLEEILKYIVVE-----GAVFADEA------------LTVTPDFHKKALDLLPQGL---
+--------PVEYIPHTE
+>tr|J3EMW7|J3EMW7_9PSED D-ribose pyranase OS=Pseudomonas sp. GM21 GN=rbsD PE=3 SV=1
+STLKVVLSEMQVE-----SHVLAQEIL-----------GKQPPALSRTLLSHD-EKVLSR
+QAN---IVLVSGVTF--
+>tr|H8L1D3|H8L1D3_FRAAD D-ribose pyranase OS=Frateuria aurantia (strain ATCC 33424 / DSM 6220 / NBRC 3245 / NCIMB 13370) GN=rbsD PE=3 SV=1
+TVLDAVLVELVTE-----RLTVARET------------ERLNPAIWAHLLAASGTQI---
+--------TRSLCSHEE
+>tr|U3GZS3|U3GZS3_9CORY Uncharacterized protein OS=Corynebacterium argentoratense DSM 44202 GN=CARG_07310 PE=4 SV=1
+DVTGRLLPHIVAE-----SVVVAKEAPAGEELAAD---AQQEVVSHEELKRLVAAKFVVR
+TGS--------VVPYSN
+>tr|K9GTW5|K9GTW5_9PROT D-ribose pyranase OS=Caenispirillum salinarum AK4 GN=rbsD PE=3 SV=1
+QVVDAVGRELQVE-----RAVIAAEL------------PERNPAVFDGLTTLL-EKIGRA
+QGA---AIAVERVPHEE
+>tr|G8PSS4|G8PSS4_PSEUV D-ribose pyranase OS=Pseudovibrio sp. (strain FO-BEG1) GN=purR PE=3 SV=1
+ETASAITAEMQVE-----RVVIAEEL------------IEQQPAYHLRLCSLI-AEIAKC
+QGT---NVETTTVSHEE
+>tr|M8DLY1|M8DLY1_9BACL Transport protein RbsD/FucU OS=Brevibacillus borstelensis AK1 GN=I532_03350 PE=4 SV=1
+TVLSLIAGDFIAE-----NIYVAEEV------------ETNNAPLYNKLKAIFPGV----
+--------EIGTMEHQK
+>tr|A0A0C2UPU3|A0A0C2UPU3_9BACL Cohnella sp. VKM B-2846 B2846_29, whole genome shotgun sequence OS=Cohnella sp. VKM B-2846 GN=SD71_19015 PE=4 SV=1
+TVLRLIAGDFIAE-----KVYYASEV------------PTYNKPLMEKVHAIFDCS----
+--------VFDTLPHKQ
+>tr|E1R2M1|E1R2M1_SPISS RbsD or FucU transport OS=Spirochaeta smaragdinae (strain DSM 11293 / JCM 15392 / SEBR 4228) GN=Spirs_1174 PE=4 SV=1
+EILDLVVSDFIYE-----RVIVAEEQ------------KENNPNLYNAIEKLC-DRC---
+--------NVETIPHAQ
+>tr|A0A061LTU1|A0A061LTU1_9MICO Ribose pyranase OS=Leucobacter sp. UCD-THU GN=H490_0114970 PE=4 SV=1
+TILGLISQELVVE-----GVVRAEDV------------VSNNPRLDEWLQQTFAGA----
+--------EFTTRSHAD
+>tr|D6T0W0|D6T0W0_GARVA ABC-type ribose transporter, auxiliary component OS=Gardnerella vaginalis 5-1 GN=GV51_0146 PE=4 SV=1
+DVLASIKDDLVLE-----SGIMAEEA------------CDDVPE--TWIKDLL-------
+-GV-----PLTYVPHDG
+>tr|A0A087ADS4|A0A087ADS4_9BIFI RbsD/FucU transport family protein OS=Bifidobacterium cuniculi GN=BCUN_2217 PE=4 SV=1
+QVLDVLAPVLVLE-----QGIMAKEA------------KGQEPE--TWVHGRFPDV----
+--------PLFYVPHDG
+>tr|A0A0B2AL81|A0A0B2AL81_9MICC D-ribose pyranase OS=Sinomonas sp. MUSC 117 GN=rbsD PE=3 SV=1
+QVLDALTDELVIE-----SAVIAEEG------------------RGTVVDEWVQSRLP--
+--------GVAAIPHEQ
+>tr|A0A0D1K4B5|A0A0D1K4B5_9MICO D-ribose pyranase OS=Frigoribacterium sp. MEB024 GN=rbsD PE=3 SV=1
+DVLDALTADVVFE-----ACTAADES-------------QDSPAGAQITSRFD-------
+--------DVAYVSHDE
+>tr|M7MZK6|M7MZK6_9MICC D-ribose pyranase OS=Arthrobacter gangotriensis Lz1y GN=rbsD PE=4 SV=1
+DILEVLARNLVIE-----SSTLASEA------------QGTGV-----------ERICQN
+HGL-----AADFLTHEQ
+>tr|F3P413|F3P413_9ACTO Ribose ABC transport system, high affinity permease RbsD OS=Propionibacterium humerusii P08 GN=PA08_2528 PE=4 SV=1
+EVFDAILDEVVVE-----GATIAHEA------------LGHEPE--SWVKNRI-E-----
+--------EVHTVSHED
+>tr|K6UN16|K6UN16_9MICO D-ribose pyranase OS=Austwickia chelonae NBRC 105200 GN=rbsD PE=4 SV=1
+VVLDALLDEIVVQ-----SHTVASES-------------EGSAAADWFTQSAD------R
+MG------ERHEVTHEQ
+>tr|C8WRM8|C8WRM8_ALIAD D-ribose pyranase OS=Alicyclobacillus acidocaldarius subsp. acidocaldarius (strain ATCC 27009 / DSM 446 / JCM 5260 / NBRC 15652
+DVCDTILTELVVE-----DFIVANEL------------AIRGSGVVDHLRERA-------
+-GV-----LGKFIPHSD
+>tr|W9BL36|W9BL36_9MYCO D-ribose pyranase OS=Mycobacterium cosmeticum GN=rbsD PE=4 SV=1
+DVTTVVLADVVVE-----HSWVSRDV------------LTVSPQVHRHLQGLIEHELFKA
+QVR-----EVAFAVRTG
+>tr|E1VZB3|E1VZB3_ARTAR Arthrobacter arilaitensis RE117 chromosome, complete sequence OS=Arthrobacter arilaitensis (strain DSM 16368 / CIP 108037 / JCM
+QVLEVLARNMVIE-----RSNLAAEA-------------KDGP-----VQDLCSA-----
+--N---GLDPQFITHEE
+>tr|C5EVX9|C5EVX9_9FIRM D-ribose pyranase OS=Clostridiales bacterium 1_7_47FAA GN=rbsD PE=4 SV=1
+QVLDEVLKHFSVE-----KIIYSQAT------------VDVSPTREQEFLSRFDDCV---
+--------EREVVPHPV
+>tr|B1ZN30|B1ZN30_OPITP RbsD or FucU transport OS=Opitutus terrae (strain DSM 11246 / PB90-1) GN=Oter_3202 PE=4 SV=1
+QVLDAILPQYVIG-----RIFAEEEF------------RQVNPSVVEALRDHTGA-----
+-------IPLVFEPHVE
+>tr|A6DIB0|A6DIB0_9BACT Predicted cytoplasmic sugar-binding protein OS=Lentisphaera araneosa HTCC2155 GN=LNTAR_09344 PE=4 SV=1
+DVLKVILPHFTVG-----KCWMAEEF------------NSNNEETKKQFAAVLSD-----
+-------IPREFKDHDE
+>tr|H3SD43|H3SD43_9BACL D-ribose pyranase OS=Paenibacillus dendritiformis C454 GN=PDENDC454_07190 PE=4 SV=1
+DALRAIAGEFVID-----CIIITEEM------------QAFSPERVALLKQLMPDV----
+--------RWKVLPHVQ
+>tr|X1REE7|X1REE7_9ZZZZ Marine sediment metagenome DNA, contig: S12H4_S00313 (Fragment) OS=marine sediment metagenome GN=S12H4_25992 PE=4 SV=1
+EVLKLIKKNLFIE-----RILLTEEL------------KNNCPNMFKNVTNLLKEA----
+--------KLEVITHKD
+>tr|R5FZU1|R5FZU1_9CLOT RbsD/FucU transport family protein OS=Clostridium sp. CAG:81 GN=BN789_01936 PE=4 SV=1
+QTMCAILNDLVAE-----RYEVFELM------------PQYNDAMYQKIQSLV----PQL
+PGG---TTMVLYSASGM
+>tr|K0JKV0|K0JKV0_BRAPL RbsD2 protein OS=Brachyspira pilosicoli WesB GN=rbsD2 PE=4 SV=1
+LILKLIDSEMVSE-----KIIYAKEL------------RTNNPSLHKKVLNIFPELVEKY
+SNN---IGNIILVSGTD
+>tr|A0A0A6WLI8|A0A0A6WLI8_CITBR L-fucose mutarotase OS=Citrobacter braakii GN=IB70_02810 PE=4 SV=1
+DILRVLRHEVFIE-----DIKFAREV------------RDCNGDLYRQVQDIF-------
+TGS---GTDFSEASHEV
+>tr|A0A090U9D8|A0A090U9D8_9ENTR L-fucose mutarotase OS=Citrobacter farmeri GTC 1319 GN=CIFAM_06_04760 PE=4 SV=1
+EILRVLRKELFVE-----EVHFASEV------------RDCHPQLYREVQTIY-------
+TGS---GAEFFAASHET
+>tr|W0HR72|W0HR72_9ENTR L-fucose mutarotase OS=Candidatus Sodalis pierantonius str. SOPE GN=rbsD PE=4 SV=1
+SILRVLRQEIFVE-----EVRFASEV------------RDCHPQLYQTLQELY-------
+TGS---GAEFRTASHET
+>tr|R5DGT9|R5DGT9_9FIRM RbsD/FucU transport family protein OS=Dorea sp. CAG:105 GN=BN457_00247 PE=4 SV=1
+LVLKAVLNELIVE-----DCTIFDFM------------KEYNRETYDELQKIFVKQDKEL
+SAN---A-KLFIRTGEL
+>tr|X1UHR5|X1UHR5_9ZZZZ Marine sediment metagenome DNA, contig: S12H4_S27224 (Fragment) OS=marine sediment metagenome GN=S12H4_62206 PE=4 SV=1
+DVLSSILVELEVG-----KAILAKEM----------------------------------
+-----------------
+>tr|W1XDW9|W1XDW9_9ZZZZ D-ribose pyranase (Fragment) OS=human gut metagenome GN=Q604_UNBC16902G0001 PE=4 SV=1
+SHIAKVLADLGVQ-----KIDLALDF------------GPSFEQVVSIIAKHMKSE----
+--------AIH------
+>tr|A0A081SAL3|A0A081SAL3_STRMT D-ribose pyranase OS=Streptococcus mitis GN=rbsD PE=4 SV=1
+SNIAKLADDLGVD-----KIDLA--L------------RKGSPSFLEVLKEYSDHVL---
+-------IEKIFLAEEI
+>tr|X0YST6|X0YST6_9ZZZZ Marine sediment metagenome DNA, contig: S01H4_C00946 OS=marine sediment metagenome GN=S01H4_03748 PE=4 SV=1
+---------IGIK-----RRSPAKET------------KNVNPTMFNDIVKLFDEGV---
+--------DIKIIPHLK
+>tr|A0A090NXU0|A0A090NXU0_SHIDY L-fucose mutarotase OS=Shigella dysenteriae WRSd3 GN=WRSd3_01668 PE=4 SV=1
+---------MQVE-----AAIIAEEI------------KQHNPQLHETLLTHL-EQLQKH
+QGN---TIEIRYTTHEQ
+>tr|A0A077P7W4|A0A077P7W4_XENBV L-fucose mutarotase OS=Xenorhabdus bovienii str. oregonense GN=XBO1_2060007 PE=4 SV=1
+---------VQVE-----AAILAAEM------------IDHNPQIHEQIIKRI-AELETK
+QGN---AIAIEYVSHNI
+>tr|L8UKB1|L8UKB1_AGGAC L-fucose mutarotase OS=Aggregatibacter actinomycetemcomitans serotype a str. A160 GN=A160_0878 PE=4 SV=1
+-------------------MLLAQEI------------QEKSPEILTALLARL-NKLEQQ
+QGN---RIAIEYVSHEA
+>tr|G4A9Y3|G4A9Y3_AGGAC L-fucose mutarotase OS=Aggregatibacter actinomycetemcomitans serotype e str. SC1083 GN=SC1083_1656 PE=4 SV=1
+---------MFVE-----RVLPAQEI------------QEKNPEMLTALLARL-NKPEQQ
+QGN---RIAVEYVSHEE
+>tr|T0QDH3|T0QDH3_PHOTE L-fucose mutarotase OS=Photorhabdus temperata subsp. temperata M1021 GN=B738_15299 PE=4 SV=1
+---------MQVE-----AAFLAEEI------------IIYNPLIHKLILSQI-KELEEQ
+QGN---SIIVEYISHNI
+>tr|A0A0B8PDG7|A0A0B8PDG7_9VIBR L-fucose mutarotase OS=Vibrio sp. JCM 19232 GN=JCM19232_4135 PE=4 SV=1
+---------SQVE-----GVVIAEEF------------KTVSPELHDALLDEL-KTEESR
+CGK---QIGIQYVSHEE
+>tr|A0A090T0L7|A0A090T0L7_9VIBR L-fucose mutarotase OS=Vibrio maritimus GN=JCM19240_2241 PE=4 SV=1
+---------AQIE-----GVILAEEF------------KQVSSELHDALLSMI-EQERVT
+SGK---EISVSYVSHED
+>tr|D0Z4Q6|D0Z4Q6_LISDA L-fucose mutarotase OS=Photobacterium damselae subsp. damselae CIP 102761 GN=VDA_000514 PE=4 SV=1
+---------MQIE-----GVVLAQEL------------PQINPTVHEALIALI-REEEAL
+CGK---QIKVNYISHEA
+>tr|A0A090SKP0|A0A090SKP0_9VIBR L-fucose mutarotase OS=Vibrio variabilis GN=JCM19239_1073 PE=4 SV=1
+-------------------MILAEEF------------KAVSSELHNALLAVI-EQEQAN
+TGK---EITVRYVTHEE
+>tr|B6R302|B6R302_9RHOB Protein of fucose operon OS=Pseudovibrio sp. JE062 GN=fucU PE=4 SV=1
+SVSDTVLRADGCE-----ATDLLEEL------------DQYDPENVMMMAAVEGDQLPDY
+QSA---LAQITFVEYEK
+>tr|Q21X77|Q21X77_RHOFT RbsD or FucU transport OS=Rhodoferax ferrireducens (strain ATCC BAA-621 / DSM 15236 / T118) GN=Rfer_1900 PE=4 SV=1
+ELLKILMEMGHDD-----ALVLGDAV------------IRLPGTSMAQVTQAITSVLPQA
+SGT---EREVLALVEPE
+>tr|K5XRH1|K5XRH1_9PROT Transport protein RbsD/FucU OS=Acidocella sp. MX-AZ02 GN=MXAZACID_11844 PE=4 SV=1
+AVLSVLPVDDFIP-----LPLLTMQV-------------VDAPQEVPEAVAQI-RQIAQD
+NGV---SDRLGTISREA
+>tr|D7C7T7|D7C7T7_STRBB RbsD or FucU transport OS=Streptomyces bingchenggensis (strain BCW-1) GN=SBI_09517 PE=4 SV=1
+DTIALVDRNFPAH-----SVVAAAEE------------ASGRPLAVETVERHA-FYARAR
+SA------FAVVITGED
+>tr|J0BKJ2|J0BKJ2_RHILV Fucose dissimilation pathway protein FucU OS=Rhizobium leguminosarum bv. viciae WSM1455 GN=Rleg5DRAFT_2448 PE=4 SV=1
+DVLTVVISDTNFR-----QTVLGKLL------------RIDNVSSARAIKAILSTPLQPS
+AGR---M-EIMFAFYEE
+>tr|I3CV33|I3CV33_9BURK Sugar ABC transporter auxiliary component protein OS=Herbaspirillum sp. GW103 GN=GWL_17170 PE=4 SV=1
+TVLTTVLTELQVE-----FHIVADEM------------QSVSPALAAQIATLDLP-----
+--------QARSMSHEA
+>tr|A0A081NDJ0|A0A081NDJ0_9GAMM D-ribose pyranase OS=Endozoicomonas numazuensis GN=rbsD PE=3 SV=1
+ETLDVLLSETVVE-----EIIIAKEF------------AQVSPALHQQFAERI-RLLEEE
+QGA---PVRVVQVSHES
+>tr|A0A0A3ZN06|A0A0A3ZN06_9ENTR D-ribose pyranase OS=Erwinia typographi GN=rbsD PE=3 SV=1
+QVVRAVTAEMQVE-----NAIVAEEI------------KSHNPPLHDELLALL-ASLQQQ
+QGN---TIAIQYVSHQQ
+>tr|A0A0D8NKT9|A0A0D8NKT9_PHOAN D-ribose pyranase OS=Photobacterium angustum GN=UB33_10880 PE=4 SV=1
+ETVRVMLSETCIE-----GVIMAEEF------------AQVSPEHHQALLVEL-ELEQAK
+TDK---KIHIQYVTHEQ
+>tr|K0T8W6|K0T8W6_THAOC Uncharacterized protein OS=Thalassiosira oceanica GN=THAOC_03149 PE=4 SV=1
+DALNAICSVMPLQ-----AIYMAPQE------------GVEMPPAGKEVIDEASSTIRRL
+CGD---V-EIEFSFYEQ
+>tr|Q985Q0|Q985Q0_RHILO Mll7581 protein OS=Rhizobium loti (strain MAFF303099) GN=mll7581 PE=4 SV=1
+AILSVLPVDDAVP-----EALFRASV-------------KGNPSIADPVHHEI-EAICAR
+RAP---GHAIVATSEPR
+>tr|E1RC56|E1RC56_SPISS RbsD or FucU transport OS=Spirochaeta smaragdinae (strain DSM 11293 / JCM 15392 / SEBR 4228) GN=Spirs_0801 PE=4 SV=1
+QMLEVLCQEINIE-----KAEVMKPE-------------GELPAIFEEFGAHL-NGISLD
+GLD---RLRLAIGTGED
+>tr|R2QK47|R2QK47_9ENTE Uncharacterized protein OS=Enterococcus pallens ATCC BAA-351 GN=UAU_01520 PE=4 SV=1
+EVLKALTSVVNVE-----KYELM------------------DPGDHEELPALFTEFYQKA
+VEK---EVRLVIGSAET
+>tr|W1AFL2|W1AFL2_KLEPN D-ribose pyranase OS=Klebsiella pneumoniae IS10 GN=rbsD PE=3 SV=1
+QVLEVVTTEMQVE-----AAVIAEEI------------KTHNPQLHATLLTHL-EQLQQH
+QGN---TIEIRYTSHEQ
+>tr|E8SGS2|E8SGS2_STAPH Ribose ABC transport system, high affinity permease RbsD OS=Staphylococcus pseudintermedius (strain HKU10-03) GN=SPSINT_2278 PE
+EVYEALMYHMVVE-----QAIVAREM------------VEENEALYQKVKNGF-------
+-------PTLEMVSHEK
+>tr|R9KAF3|R9KAF3_9FIRM Uncharacterized protein OS=Lachnospiraceae bacterium M18-1 GN=C808_01398 PE=4 SV=1
+TVTKGILEECLIE-----KAYLAKEM------------MEVSKALYDAYCKLFAEYD---
+-------VPIELVPHSE
+>tr|E5B040|E5B040_ERWAM L-fucose mutarotase OS=Erwinia amylovora ATCC BAA-2158 GN=rbsD PE=4 SV=1
+QVAQAVTSEMQVE-----SAIMAQEI------------RQHNPQRHSELLALL-DVLQQQ
+QGN---TISIRYISHEQ
+>tr|B9E9Z6|B9E9Z6_MACCJ Uncharacterized protein OS=Macrococcus caseolyticus (strain JCSC5402) GN=MCCL_0350 PE=3 SV=1
+SEISKVLSDLGVQ-----KIDLAVR---------------------QGLPSFI-------
+--------DIATLFMDR
+>tr|A0A0B8NK40|A0A0B8NK40_9VIBR L-fucose mutarotase OS=Vibrio sp. JCM 19231 GN=JCM19231_1896 PE=4 SV=1
+DTVKVILTESQIE-----GVVIAEEF-------------KTVSQSF--------------
+-----------------
+>tr|X1GT83|X1GT83_9ZZZZ Marine sediment metagenome DNA, contig: S03H2_L01005 (Fragment) OS=marine sediment metagenome GN=S03H2_11924 PE=4 SV=1
+--------YEEVK-----SLLTGVPI-------------ETIP--HEELKQLTHSAKAVR
+TGE--------FTPYAN
+>tr|C9Z5Q7|C9Z5Q7_STRSW Streptomyces scabiei 87.22 complete genome OS=Streptomyces scabies (strain 87.22) GN=SCAB_58691 PE=4 SV=1
+----VCDAGMPVP-----DRLVGLAF------------RAGVPSFAEVLEDRF-------
+-------PDLEPVTHET
+>tr|R5RGY5|R5RGY5_9FIRM Uncharacterized protein OS=Coprobacillus sp. CAG:183 GN=BN521_01144 PE=4 SV=1
+DIVTTLVACGDFE-----GAIVTEDM------------IEVNQKDYQLLVDLLGKK-NIH
+--------SMHYIPHAQ
+>tr|A0A0D1LZM9|A0A0D1LZM9_PSEPU Pseudomonas putida strain UASWS0946 Contig161, whole genome shotgun sequence OS=Pseudomonas putida GN=QV12_08790 PE=4 SV=1
+QLLPVLWEVGDFE-----AAFVTENM------------RQANPEARELVQRLTGEHIH--
+--------ELRYLPHSN
+>tr|A0A0A8TK05|A0A0A8TK05_ACIBZ L-fucose mutarotase OS=Acinetobacter bereziniae PE=4 SV=1
+QVMNVLWEVGDFE-----GAFVTENM------------KTANPAAYAKVKNLT-GEANLH
+--------ELRYLPHSN
+>tr|K6XFF8|K6XFF8_9MICO Putative L-fucose mutarotase OS=Kineosphaera limosa NBRC 100340 GN=KILIM_075_00030 PE=4 SV=1
+DVLGVLRQAIAIE-----RAVMVPEP-------------DALPEHREALPGVRVDELPRY
+EAG---DVAVLVATGDQ
+>tr|B8CWP6|B8CWP6_HALOH RbsD or FucU transport OS=Halothermothrix orenii (strain H 168 / OCM 544 / DSM 9562) GN=Hore_09590 PE=4 SV=1
+DVLKVLVEVINIE-----EATVMAPS------------KGDKPAIFKEFKRILSDKCVSN
+QDL-----CLVIVTGEQ
+>tr|A0A0B4D2S4|A0A0B4D2S4_9MICC RbsD or FucU transport OS=Arthrobacter phenanthrenivorans GN=RM50_08295 PE=4 SV=1
+GLLAALAESGHGS-----QILVADAN------------YPHNPASARRIALNLRPGLQQA
+LGT-----AVPITSHQR
+>tr|D4TVT7|D4TVT7_9ACTO RbsD/FucU transport family protein OS=Actinomyces odontolyticus F0309 GN=HMPREF0970_00077 PE=4 SV=1
+QVLDVLKRTIPIE-----RAEIMTPA------------PDADPPIHDEFRAAL-PGVEAA
+RDE---NVGIIVATGEQ
+>tr|F4LXK2|F4LXK2_TEPAE Uncharacterized protein OS=Tepidanaerobacter acetatoxydans (strain DSM 21804 / JCM 16047 / Re1) GN=TEPIRE1_1940 PE=4 SV=1
+QVLNVLSNTITIE-----KAVMATDD-------------GQEPLIFQEFKKILGTEAEEC
+KKE---NVKLAIATGEQ
+>tr|W1N9T8|W1N9T8_9GAMM L-fucose mutarotase OS=Halomonas sp. BJGMM-B45 GN=BJB45_12425 PE=4 SV=1
+AVMDAVAQSIAVE-----EITFMATA------------EGEASDSVTECQRHL-ADHRHA
+GGS-----EITWSSLDR
+>tr|Q1R0M9|Q1R0M9_CHRSD L-fucose mutarotase OS=Chromohalobacter salexigens (strain DSM 3043 / ATCC BAA-138 / NCIMB 13768) GN=Csal_0367 PE=4 SV=1
+AVMDAVSQSVAVE-----AITFMA---------------TAEGKASETVVDCQ-QRLAGH
+HGN---GQTIAWSGLER
+>tr|A0A0C5W0P3|A0A0C5W0P3_9ENTR Enterobacteriaceae bacterium bta3-1, complete genome OS=Enterobacteriaceae bacterium bta3-1 GN=F652_1279 PE=4 SV=1
+LILEKILTSINVE-----KAVLMAYP------------PDFINTIESEYRQILPENC---
+--------SIEYLPRQD
+>tr|A0A084ZKP9|A0A084ZKP9_9ENTR L-fucose mutarotase OS=Trabulsiella guamensis ATCC 49490 GN=GTGU_04571 PE=4 SV=1
+ELLSVLAKCGHKT-----KILLADSM-------------INSPLILEKLLKYINVESATL
+MAS---PTEFNWLAREA
+>tr|A0A0A5RP94|A0A0A5RP94_KLEPN L-fucose mutarotase OS=Klebsiella pneumoniae GN=MC50_13215 PE=4 SV=1
+VILQKMLGYINIE-----KALLMSCP------------DDFDNTIAREYRSLLAEST---
+--------GVEYVARED
+>tr|A0A0B5ITQ6|A0A0B5ITQ6_RAOOR L-fucose mutarotase OS=Raoultella ornithinolytica GN=TE10_07050 PE=4 SV=1
+TILQKILGYISVE-----KATLMASP------------PEFDNTIAREYRHVLTQTT---
+--------ELEYIERNA
+>tr|H3N8X5|H3N8X5_KLEOX L-fucose mutarotase OS=Klebsiella oxytoca 10-5250 GN=HMPREF9694_04265 PE=4 SV=1
+IILEKILQYINVE-----KATLMNSP------------ADFDNTIEREYRSLLAATIEEH
+ERN---ADTILVIASGE
+>tr|Q896U5|Q896U5_CLOTE Uncharacterized protein OS=Clostridium tetani (strain Massachusetts / E88) GN=CTC_00903 PE=4 SV=1
+DVLKVLVESINIE-----RAQVMTPG------------EGEEPTIFNEFREILSNEIQES
+KEN---NIRLAIATGEK
+>tr|M5SY53|M5SY53_9PLAN RbsD or FucU transport OS=Rhodopirellula sp. SWK7 GN=RRSWK_05747 PE=4 SV=1
+QALQAILSAVPIE-----AAMMETET------------SDGDPPVWEDFRKSL-----RD
+AGS-----KVELKSLEK
+>tr|R5JZJ2|R5JZJ2_9CLOT Uncharacterized protein OS=Clostridium sp. CAG:264 GN=BN572_01148 PE=4 SV=1
+--AKIVEKNQP----------LFTYI------------RESLPEAEESMISHMALK---E
+MSK---NVKFAIRTGEF
+>tr|F3MUB5|F3MUB5_LACRH D-ribose pyranase OS=Lactobacillus rhamnosus MTCC 5462 GN=AAULR_02849 PE=4 SV=1
+-----KKDLSKTK-----AFIRTGEM------------TPYANILLES------------
+--------GVTF-----
+>tr|C1BMW8|C1BMW8_CALRO FucU homolog OS=Caligus rogercresseyi GN=CJ125 PE=2 SV=1
+DLLYTLAQMGHGD-----EIVLVDAS------------GHSIPDLLQAILPLFPLD----
+--------HYVFNPAIV
+>tr|G3W9E0|G3W9E0_SARHA Uncharacterized protein OS=Sarcophilus harrisii GN=FUOM PE=4 SV=1
+ELLFALAKMGHGD-----EIVLAVEV------------RADGPQLLESILKLL--PLDTY
+EPN---SVVIMDLVE--
+>tr|F2A2U2|F2A2U2_RHIET Uncharacterized protein OS=Rhizobium etli CNPAF512 GN=RHECNPAF_122100171 PE=4 SV=1
+---------MAID-----PVIHAELI------------------YVLMLMGHG-DELQTT
+YGK---LVDVSFPLHTF
+>tr|E9HUS7|E9HUS7_DAPPU Putative uncharacterized protein OS=Daphnia pulex GN=DAPPUDRAFT_266279 PE=4 SV=1
+ERFDFYDRARKAF-----AIVQTGET--------------------------------AL
+YGN---ILKMGVI----
+>tr|J8V833|J8V833_PSEPU L-fucose mutarotase OS=Pseudomonas putida S11 GN=PPS11_01974 PE=4 SV=1
+QLLPVLWEVGDFE-----AAFVTENM------------RQANPLMRELVQ----------
+-----------------
+>tr|A0A0C1DBA4|A0A0C1DBA4_9SPHI Uncharacterized protein OS=Pedobacter kyungheensis GN=OC25_08900 PE=4 SV=1
+DKAFPLQQSAGME-----YIYAPEGM------------EAYRDRELEFVKPLVGAKADQR
+EAG---LFKVLVIKTNE
+>tr|G5H9Q1|G5H9Q1_9BACT Uncharacterized protein OS=Alistipes indistinctus YIT 12060 GN=HMPREF9450_01366 PE=4 SV=1
+NWILVVDKAFPLQ-----SAPGIVTI------------NTGEPSLSDDLCPGA-EQAQAL
+QDA-----QVNTILHEE
+>tr|U6REE5|U6REE5_9BACE Uncharacterized protein OS=Bacteroides massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223 GN=HMPREF1534_02300 PE=4 SV=1
+DMAYPLQADLGII-----TLYAPEHI------------YQDREQLANSLSKVLDGSE---
+--------KVTFLPHEE
+>tr|M5TDY0|M5TDY0_9PLAN Uncharacterized protein OS=Rhodopirellula sp. SWK7 GN=RRSWK_03751 PE=4 SV=1
+EVLRETLKEIESS-----SVYLDGEL------PFLT--EKYAPGIDRYREQLNEAMLDT-
+--------PVQSLPHDE
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3E7NA_frag.pdb
+QVVDVVTRE.QVE-----AAILATEI------------KQQNPQLHETLLTHL-EQLQQH
+QGN---TIKISYTTHEQ
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//2WCUA_frag.pdb smoothed
+QLLEAVLRLLPLDTYVESPAAVMDL------VPSDKEKGLQTP-IWKRYESLL-LEAD--
+--------TLMKLERFE
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//2WCUA_frag.pdb
+QLLEAVLRLLPLDTYVESPAAVMDL------VPSDKEKGLQTP-IWKRYESLL-LEADCK
+K-------TLMKLERFE
+>sp|Q0P563|FUCM_BOVIN Fucose mutarotase OS=Bos taurus GN=FUOM PE=2 SV=1
+QLLEAVLQLLPLDTYVQSPAMVMEL------VPSDRKSGLLTP-VWTSYQSIL-SRAGYE
+--------FSLGMGRFA
+>sp|A2VDF0|FUCM_HUMAN Fucose mutarotase OS=Homo sapiens GN=FUOM PE=1 SV=2
+QLLEAVLKLLPLDTYVESPAAVMEL------VPSDKERGLQTP-VWTEYESIL-RRAGCV
+R-------ALAKIERFE
+>sp|Q8R2K1|FUCM_MOUSE Fucose mutarotase OS=Mus musculus GN=Fuom PE=1 SV=1
+QLLEAVLRLLPLDTYVESPAAVMDL------VPSDKEKGLQTP-IWKRYESLL-LEADCK
+K-------TLMKLERFE
+>tr|A9UVL6|A9UVL6_MONBE Predicted protein OS=Monosiga brevicollis GN=15956 PE=4 SV=1
+DLLKAILQVLPLDTTC-GPCALMEM------MDMHKAAGWKTP-IWDEYKAAV-KEAEGR
+TI------DFEEVERFA
+>tr|D0BM86|D0BM86_9LACT Uncharacterized protein OS=Granulicatella elegans ATCC 700633 GN=HMPREF0446_01089 PE=4 SV=1
+QILEAILKLLPLDTYSSYQAGLMQV------VPGDTTVPV----IWDEYKKLL-EESHPG
+A-------AIKEFERFE
+>tr|G1WHZ2|G1WHZ2_9ACTN Uncharacterized protein OS=Collinsella tanakaei YIT 12063 GN=HMPREF9452_00955 PE=4 SV=1
+EMLESVLKLVPLDTYVESPLVLMAT------VEGDPE----PP-IWSVYQDIA-DRSQDE
+S-------PVMSIDRQE
+>tr|F7ESI4|F7ESI4_MONDO Uncharacterized protein OS=Monodelphis domestica GN=FUOM PE=4 SV=2
+QLLESILKLLPLDTYEPNSVMVMDV------VESDKAKGLQTPEVWQTFRSLL-SQTGFR
+E-------DLGKMERFA
+>tr|A0A0B3S462|A0A0B3S462_9RHOB Fucose dissimilation pathway protein OS=Ponticoccus sp. UMTAT08 GN=OA50_00076 PE=4 SV=1
+QVLQAVLTLLPLDSFVKDPAHTMQV------V-GDAE---ATPEIFNEFQTLI-NDADNP
+A-------PIATLERFA
+>tr|G3T222|G3T222_LOXAF Uncharacterized protein OS=Loxodonta africana GN=FUOM PE=4 SV=1
+HLLEVVVKLLLLDSYMESPAAIMEL------VPSNRTRGLQIP-LWRHYKYHL-PQAGCT
+N-------SLEKFERFA
+>tr|C1BSK5|C1BSK5_LEPSM FucU homolog OS=Lepeophtheirus salmonis GN=CJ125 PE=2 SV=1
+ELLKAILPLFPLDCHVFNPAIVMGL------VNSDKKKGIQVE-IWNKYVDILSFETDRS
+I-------TLLEIERFE
+>tr|R5ICH0|R5ICH0_9FIRM L-fucose mutarotase OS=Firmicutes bacterium CAG:124 GN=BN480_01092 PE=4 SV=1
+ELLDAILQVIPLDEYVEHPVMIMQV--------AEKDRGMEIP-IWDEYKKIV-AKYDAR
+A-------AFGSYERFE
+>sp|Q7ZZ03|FUCM_DANRE Fucose mutarotase OS=Danio rerio GN=fuom PE=2 SV=1
+ELLKAILKLFPLDTYDES-AAVMDL------VPSDLLKGLKVP-IWDQYSELL-KQAGSD
+G-------NMKPVERFA
+>tr|G5AVA7|G5AVA7_HETGA FucU-like protein OS=Heterocephalus glaber GN=GW7_07877 PE=4 SV=1
+KLLEAVLKLLPLDTYVESPAAVMEL------VPGDKERGLQTP-VWKDYEILL-LQAGCM
+G-------TLAKIERFE
+>tr|L8IWA9|L8IWA9_9CETA Protein fucU-like protein (Fragment) OS=Bos mutus GN=M91_14997 PE=4 SV=1
+QLLEAVLQLLPLDTYVQSPVRLLRA------LPLPEHRGTTCPDVWTSYQSIL-SRAGYE
+F-------SLGMVERFA
+>tr|W5NR88|W5NR88_SHEEP Uncharacterized protein (Fragment) OS=Ovis aries GN=FUOM PE=4 SV=1
+QLLEAVLQLLPLDTYVQSPAVVMEP------VPSDRKNGLLAP-VWTSYQSIL-SRAGYE
+F-------SLGMVERFA
+>tr|L5MET0|L5MET0_MYODS Fucose mutarotase OS=Myotis davidii GN=MDA_GLEAN10021248 PE=4 SV=1
+QLLEAVLKLLPLDTYVESPAAVMEL------VSSDKERGLQTP-VWKSYQSIL-LEAGCQ
+S-------PLEKIERFE
+>tr|G3IAN6|G3IAN6_CRIGR Protein fucU-like OS=Cricetulus griseus GN=I79_020662 PE=4 SV=1
+QILEAVLKLLPLDTYVESPAAVMEL------VPSDKERGLQTP-IWNHYESLL-------
+-----------------
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//2WCUA_frag.pdb
+QLLEAVLRLLPLDTYVESPAAVMDL------VPSDKEKGLQTP-IWKRYESLL-LEADCK
+K-------TLMKLERFE
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3MVKA_frag.pdb smoothed
+EILKAILTVFPLDTYVDKPATL.EK------VPGD----TVATPIWDVYAGLI-KEHD--
+---ERGADAIGSLERFA
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3MVKA_frag.pdb
+EILKAILTVFPLDTYVDKPATL.EK------VPGD----TVATPIWDVYAGLI-KEHD--
+---ERGADAIGSLERFA
+>sp|B8F6Y2|FUCM_HAEPS L-fucose mutarotase OS=Haemophilus parasuis serovar 5 (strain SH0165) GN=fucU PE=3 SV=1
+TLLEAITPLFEYDQYVERPLAMMQA------VHGD---SLDLA-VEERYLAAI-AKINGK
+------APLVERVERFA
+>sp|A3N2Y4|FUCM_ACTP2 L-fucose mutarotase OS=Actinobacillus pleuropneumoniae serotype 5b (strain L20) GN=fucU PE=3 SV=1
+TLLEGISALFEFDQYVEAPLAMMQA------VPGD----TLDPSVEERYLAAI-KKVN--
+----GSTPKVERVERFA
+>tr|A0A0D5LNQ6|A0A0D5LNQ6_9RHIZ Carbohydrate transporter OS=Martelella endophytica GN=TM49_03305 PE=4 SV=1
+GLAQAMATVFPLGFYAGLPEMFVEA------IGFD----TAVKTFQDIYTGLA-IPHE--
+---EPKAKVIIRSGSFN
+>tr|Q98PW9|Q98PW9_MYCPU RbsD OS=Mycoplasma pulmonis (strain UAB CTIP) GN=MYPU_6000 PE=4 SV=1
+QIINTTLKIVVCDPYFPIPANILDLSLIAN-VPSFKQSNEIKEHNYDYLAYLISSQND--
+---VVLYVRVGELTPFS
+>tr|A0A090ZI86|A0A090ZI86_PAEMA Fucose mutarotase OS=Paenibacillus macerans GN=c10.125 PE=4 SV=1
+ELLEAILPLFPLDVYVDRPVSLMAV------TPGD----AVETPIWGKYREIVSRYHP--
+---VDDNDPFEEVERFA
+>tr|A0A010ZGZ7|A0A010ZGZ7_9CLOT Fucose dissimilation pathway protein FucU OS=Clostridium sp. ASBs410 GN=K413DRAFT_3279 PE=4 SV=1
+EILAAILQVFPLDTYEEHPVTLMAV------VAGD----KVETPIWEQYKEIV-ANYD--
+---DRGAGCFEEIDKWK
+>tr|G2Z8W0|G2Z8W0_LISIP Listeria ivanovii subsp. ivanovii PAM 55, complete genome OS=Listeria ivanovii (strain ATCC BAA-678 / PAM 55) GN=LIV_0082 PE=4 
+ELLETILTYFPLDTYATAALILMKP------VNDDKEPG-----IWDDFKQLL-IDKN--
+---SEN-QFIELEERFD
+>tr|G0GEL8|G0GEL8_SPITZ RbsD or FucU transport OS=Spirochaeta thermophila (strain ATCC 700085 / DSM 6578 / Z-1203) GN=Spith_0422 PE=4 SV=1
+PLLDAILSLIPIDTYVSDPVVMMQP------VEGD----SYDPSLFETYEVLV-RRWP--
+---E--TPPITRLERFA
+>tr|D4CNC1|D4CNC1_9FIRM RbsD/FucU transport family protein OS=Oribacterium sp. oral taxon 078 str. F0262 GN=GCWU000341_01861 PE=4 SV=1
+ELLDAVLALFPLDHYVEQPVLLMEK------VPGD----KAKTPIWESFRRIV-EKHEGE
+KGSAEGEERIGHLERFR
+>tr|V2Y7A7|V2Y7A7_9FIRM Putative L-fucose mutarotase OS=Catonella morbi ATCC 51271 GN=GCWU0000282_001145 PE=4 SV=1
+EILDAILELMPLDEFVEKPVLIMDKS-----AQHK----ELETPVWDEFKNIV-IKHN--
+---DKGEGMVGFIDRFA
+>tr|U2SXX1|U2SXX1_9FIRM Putative L-fucose mutarotase OS=Mitsuokella sp. oral taxon 131 str. W9106 GN=HMPREF1985_00589 PE=4 SV=1
+EMLDAILRIMPLDTFAEHPVLIMDM--------ANRQGQPRPT-VWDDFARAV-SHHV--
+---KKGESCIGFIDRFA
+>tr|U7MPB5|U7MPB5_9CORY Uncharacterized protein OS=Corynebacterium sp. KPL1989 GN=HMPREF1290_01080 PE=4 SV=1
+ALLEAIMPLFKLDQYEDKQYLLMAP------VAGD----SDAP-VWDSYRKII-SAYD--
+---PGAEPEF--LERFR
+>tr|K0PWR2|K0PWR2_9RHIZ L-fucose mutarotase OS=Rhizobium mesoamericanum STM3625 GN=fucU PE=4 SV=1
+DMAEAILTHFPLDTFVPETAWRMEV------V-GD----PRAVP--EVCAEFE-EIVS--
+---RRGSFKIASLERFA
+>tr|A0A064DBH5|A0A064DBH5_9ENTR L-fucose mutarotase OS=Citrobacter sp. MGH 55 GN=fucU PE=3 SV=1
+DLLRAVIPLFELDSYA-PPLVMMAA------VEGD----TLDPHVETRYEALS-LQAPCP
+--------EIARIDRFA
+>tr|A0A0D2VYD4|A0A0D2VYD4_9PROT Skermanella aerolata KACC 11604 strain 5416T-32 contig17, whole genome shotgun sequence OS=Skermanella aerolata KACC 11604 GN=N
+AALKAVVSLLPLDDFVDAPAAVMTP------ATGR-------PPVLDEFQTLI-DGAEGK
+P--I----RMTEMERFA
+>tr|A0A0C6FH13|A0A0C6FH13_9RHIZ FucU protein OS=Methylobacterium aquaticum GN=fucU PE=4 SV=1
+ALLDAILSLLPLDDFVESPMAVMQA------PPETR-------PLYDGYQASA-DRAE--
+---GRSAITEMPIPEFY
+>tr|R5XIE2|R5XIE2_9FIRM Uncharacterized protein OS=Anaerotruncus sp. CAG:528 GN=BN695_00473 PE=4 SV=1
+DMLEAVLKLIPLDQYDPEHFILMQK------VPGDDK--ADTS-AWDDYTKIL-KKES--
+---PESEPTF--CERFS
+>tr|W4EQS7|W4EQS7_9BACL Fucose dissimilation pathway protein FucU OS=Viridibacillus arenosi FSL R5-213 GN=C176_15242 PE=4 SV=1
+SILEGILFLMPLDTYVENPICLM--------MHGE--EVERPQ-IWKEYEELV-TKSE--
+---NVFKAEYLSRESFY
+>tr|L0WZX9|L0WZX9_9SPIR Transport protein RbsD/FucU OS=Brachyspira hampsonii 30446 GN=A966_12616 PE=4 SV=1
+TVLKAIMPLFPLDTFVESPVVLMQP------NADF----GREPDVWAKYKDII-AKHQ--
+---KV---NYEYLERFA
+>tr|F0SXR5|F0SXR5_SYNGF RbsD or FucU transport OS=Syntrophobotulus glycolicus (strain DSM 8271 / FlGlyR) GN=Sgly_1600 PE=4 SV=1
+SLLAAILKLFPLDHLVDAPMRLMAV------EEGDQYLGIPE--IWNRFQKVA-ETYQYG
+I--ERQEFYRQSRQAYA
+>tr|B2IKF4|B2IKF4_BEII9 RbsD or FucU transport OS=Beijerinckia indica subsp. indica (strain ATCC 9039 / DSM 1715 / NCIB 8712) GN=Bind_2865 PE=4 SV=1
+ALLDALLSLMPLDRAVDE--AVFRP------VPAGDAKGLEATALHSEYETLV-AKHDPG
+R--VKGAYAIASGERRL
+>tr|W4FV26|W4FV26_9STRA Uncharacterized protein OS=Aphanomyces astaci GN=H257_13759 PE=4 SV=1
+DLLEAVLHLFPLDSFDVFQAAVMKQ------VHSS----DDAP-IVHEFQMIL-NHA---
+---YQTVDAVDRLERFA
+>tr|X7EBC5|X7EBC5_9GAMM L-fucose mutarotase OS=Marinomonas ushuaiensis DSM 15871 GN=MUS1_01970 PE=4 SV=1
+EALAAILTLLPIDTFVDNPFITMEV------VDQP----DITPPTVQHFAQII-KEET--
+---AFRSSPVG-LERFE
+>tr|W4P039|W4P039_9BURK Fucose operon fucU protein OS=Burkholderia caribensis MBA4 GN=K788_000464 PE=4 SV=1
+RVLDAILSVLPLDKGADKPAEILSL------PPTEKERAVVTG-ETRVYGNML-IRKG--
+--------TLP------
+>tr|K0JEY1|K0JEY1_BRAPL RbsD protein OS=Brachyspira pilosicoli WesB GN=rbsD PE=4 SV=1
+DILDAIMKFFMLDQFTKYPVTLMK--------PND----NSKPNIWEDYYNII-IKYE--
+----PSFKEFEYIDRFS
+>tr|R5WS75|R5WS75_9FIRM Uncharacterized protein OS=Blautia sp. CAG:257 GN=BN568_02464 PE=4 SV=1
+DLMDAVLSLMPLDEFVEKPVLIMDK------EPRHAE--LECP-VWGEFKDIV-AKYD--
+---ERGAEACGMISRKE
+>tr|T4C0L8|T4C0L8_PEPDI Fucose mutarotase OS=Peptoclostridium difficile F501 GN=QOE_2165 PE=4 SV=1
+DMLAAVLGVMPLDHLGGAPARLMAV------AEGDDCPG---PAVWGLYSHCL-------
+-------DAVGCRERFE
+>tr|S3JIX6|S3JIX6_TRESO Uncharacterized protein OS=Treponema socranskii subsp. paredis ATCC 35535 GN=HMPREF1221_01734 PE=4 SV=1
+EVLKAVLALFPLD-HMKENAILMEV------PKNN----FVETPIWKEFDALC-RDGDDR
+T--EKCYAVIATSEKAL
+>tr|J9YYK7|J9YYK7_9PROT RbsD/FucU transport protein OS=alpha proteobacterium HIMB59 GN=HIMB59_00006450 PE=4 SV=1
+EILKAILSVFPLDSFIESPIQRMEI---------D----GNPDELNEVHKELM-QTTA--
+---EVAGDKISSIERFK
+>tr|G5HG13|G5HG13_9FIRM Uncharacterized protein OS=[Clostridium] citroniae WAL-17108 GN=HMPREF9469_01525 PE=4 SV=1
+EMIEDILKLMPLDVYCEHPVEYM--------VP-DQDAGVSMPKVWDAVEAVV-RNGYAP
+K-------IVGEIERTK
+>tr|A0A099GA35|A0A099GA35_9RHOB Ribose ABC transporter OS=Paracoccus sp. 10990 GN=IX55_09985 PE=4 SV=1
+RVLAAVLSVLPLDAHEPDPVLTMQV------V-GD----PAAIP--EVVAVAA-PQLA--
+---ALGVGPAG-LERFA
+>tr|A9HPM0|A9HPM0_GLUDA FucU or rbsD protein OS=Gluconacetobacter diazotrophicus (strain ATCC 49037 / DSM 5601 / PAl5) GN=fucU or rbsD PE=4 SV=1
+PVLDAILKLLPLDGFVDDPAVSMQQ------V-GD----PDAVPVADIDATL--------
+R--AHGHAASRRIERYA
+>tr|D8LIE6|D8LIE6_ECTSI Conserved protein of fucose operon OS=Ectocarpus siliculosus GN=Esi_0022_0070 PE=4 SV=1
+PLLRAVSKLFPLDTYTEFPVQMMAA------VPGDE---LDAS-IEERFSTAV--EAE--
+---QPGMFKVERVERFA
+>tr|B3T6P2|B3T6P2_9ZZZZ Putative RbsD / FucU transport protein family protein OS=uncultured marine microorganism HF4000_APKG2K17 GN=ALOHA_HF4000APKG2K1
+ELAKAILSVFPLDSFVSEPVFRMEV------VPGE----LVGC-HKDMRNILD-ETSD--
+---RRW--EIGSIERHA
+>tr|E4U8X1|E4U8X1_OCEP5 RbsD or FucU transport OS=Oceanithermus profundus (strain DSM 14977 / NBRC 100410 / VKM B-2274 / 506) GN=Ocepr_1344 PE=4 SV=1
+ELVQAILELMPLDTFTD--ANVWYM------DNGE----AAKPEIWKAFDAVL-ADSG--
+------EDAVAAIDRFA
+>tr|F7ZJE5|F7ZJE5_ROSLO Putative L-fucose mutarotase OS=Roseobacter litoralis (strain ATCC 49566 / DSM 6996 / JCM 21268 / NBRC 15278 / OCh 149) GN=RLO1
+EALRAILSIMPLDTYVDAPARSMQV------V-GD----PAAVP--DIVAEFQ-RIID--
+---DVAPAQIQSVERHE
+>tr|A0A0D7QQR2|A0A0D7QQR2_9MICO Uncharacterized protein OS=Agreia bicolorata GN=TZ00_14015 PE=4 SV=1
+QALHVVLSVMPLDRFEETPMIFMQ--------PAD-----AGGPLPVHQAALS-AAAD--
+---AEGRPACAWRERHA
+>tr|U4UYU1|U4UYU1_9RHOB Fucose dissimilation pathway protein FucU OS=Rhodobacteraceae bacterium HIMB11 GN=HIMB11_02151 PE=4 SV=1
+EAIEAILSLFPLDTFVDDFAGRMEV------DGEP----DYLPPVQEDVAKIV-RAND--
+---DKSRDMI-SIERQA
+>tr|X0PN04|X0PN04_9LACO L-fucose mutarotase OS=Lactobacillus composti DSM 18527 = JCM 14202 GN=JCM14202_763 PE=4 SV=1
+DLLTDILELLPLDAYSDYQGILMEV------VPNDKAPSGRAE-IWDRYAAII-QESFPN
+L--ERQAFYEYSHRCFA
+>tr|B0NEL3|B0NEL3_CLOSV RbsD/FucU transport family protein OS=[Clostridium] scindens ATCC 35704 GN=CLOSCI_01894 PE=4 SV=1
+ELLEAILPFFPLDYFVDYPVRLMQK------LDYEPE-----VMIWKTYEELL-KKYD--
+---KDHADATGDTSRYG
+>tr|C6WJV2|C6WJV2_ACTMD RbsD or FucU transport OS=Actinosynnema mirum (strain ATCC 29888 / DSM 43827 / NBRC 14064 / IMRU 3971) GN=Amir_2387 PE=4 SV=1
+PPLLAVLNLTPLLTVDQVLAPVLTA------VPVEAAHAMRTPEVWADYERLLGKSSD--
+---LAVCVATGDTRLYA
+>tr|B0PDB8|B0PDB8_9FIRM RbsD/FucU transport family protein OS=Anaerotruncus colihominis DSM 17241 GN=ANACOL_03072 PE=4 SV=1
+EIMKAISLCYPLDTVTDTLKVLSET------IPGD----GTEPPIFKDFRELLDSKANEP
+K--VRLAISTGEKRTYA
+>tr|D5SWX7|D5SWX7_PLAL2 RbsD or FucU transport OS=Planctomyces limnophilus (strain ATCC 43296 / DSM 3776 / IFAM 1008 / 290) GN=Plim_1645 PE=4 SV=1
+QVLEAILSAIPIDIPADDPYAQLGD------PPVWKEAGLSIPPIWDFYEE-V-KSTD--
+---HVLTIQTGDVALWA
+>tr|L0MIB7|L0MIB7_SERMA L-fucose mutarotase OS=Serratia marcescens FGI94 GN=D781_2160 PE=4 SV=1
+QLLGALAACYAVTTNARKDAAVLEK------VPAD----YPHTPA-DEYRRLL-PDAEVK
+S--ERTAIATGEQRRFA
+>tr|M5RVV0|M5RVV0_9PLAN RbsD or FucU transport OS=Rhodopirellula europaea SH398 GN=RESH_06203 PE=4 SV=1
+QVLKALLSAIPMQTEADGPYALD----------GD-------PPVWEEYRKSF-KDAGSS
+D--HVLTIQTGDQQRYA
+>tr|D2R7C7|D2R7C7_PIRSD RbsD or FucU transport OS=Pirellula staleyi (strain ATCC 27377 / DSM 6068 / ICPB 4128) GN=Psta_0938 PE=4 SV=1
+QALQAVLSAVPIDEIKDDPYTLDSD------PPVWNERQTLAKPIWDFYDA-V-ATAD--
+---HVLTIQTADTQRFA
+>tr|K8QFY5|K8QFY5_LACRH L-fucose mutarotase OS=Lactobacillus rhamnosus LRHMDP2 GN=LRHMDP2_1316 PE=4 SV=1
+DLLQDILVLMPLDSYADYQAIVQEV------VPGDEHVPNGEPPVWHQYRTEI-AKSF--
+-----SDYQFKPLERFE
+>tr|S6CAL4|S6CAL4_LACCA Fucose operon protein OS=Lactobacillus casei subsp. casei ATCC 393 GN=LBCZ_2451 PE=4 SV=1
+TLLQGILTLMPLDPYADYQAVVQAV------VPGDKNVPEGEPPVWHDYRAEL-AKAFPG
+F-------HLKSLERFD
+>sp|Q83QC7|FUCM_SHIFL L-fucose mutarotase OS=Shigella flexneri GN=fucU PE=3 SV=1
+DLLQAIIPLFELDSYA-PPLVMMAA------VEGD----TLDPEVERRYRNALSLQAPCP
+--------DIIRINRFA
+>tr|X0TMW0|X0TMW0_9ZZZZ Marine sediment metagenome DNA, contig: S01H1_L08179 (Fragment) OS=marine sediment metagenome GN=S01H1_18669 PE=4 SV=1
+ELLKAILQFFPLDTYADINVIYMDK------TPS----------IWNKYQEIL-KKSK--
+---EN--FNIEKIERFK
+>tr|R6LY98|R6LY98_9FIRM Fucose dissimilation pathway protein FucU OS=Firmicutes bacterium CAG:170 GN=BN515_01294 PE=4 SV=1
+ELLDAILEVFPLDSYVETPVMLMEK------MDCD----KKEIPVWEEYKKIV-AKHD--
+---ERGEKAFGAYERFE
+>tr|I6FLZ4|I6FLZ4_SHIDY L-fucose mutarotase OS=Shigella dysenteriae 225-75 GN=fucU PE=4 SV=1
+DLLQAIIPLFELDSYA-PPLVMMAA------VEGD----TLDPEVERRYRNALSLQAPCP
+--------DIIRINRFA
+>tr|X3X2V9|X3X2V9_SALEN L-fucose mutarotase (Fragment) OS=Salmonella enterica subsp. enterica serovar Enteritidis str. EC20121004 GN=fucU PE=4 SV=1
+DLLRAIIPLFELDSYA-PPLVMMAA------VEGD----TLDPSVEARYDALS-LEAPCP
+--------DIVRIDRYA
+>tr|A0A024T9K3|A0A024T9K3_9STRA Uncharacterized protein OS=Aphanomyces invadans GN=H310_14895 PE=4 SV=1
+HVLDAVLKLFPLDSFDQFQATVMKQ------VHSS----DDAP-IVQEFQSML-NHA---
+---YQTVDSIARVDRFG
+>tr|F6X9P4|F6X9P4_MOUSE Fucose mutarotase (Fragment) OS=Mus musculus GN=Fuom PE=1 SV=1
+QLLEAVLRLLPLDTYVESPAAVMDL------VP---------------------------
+-----------------
+>tr|W4YQE4|W4YQE4_STRPU Uncharacterized protein OS=Strongylocentrotus purpuratus PE=4 SV=1
+REMEAVV--------VEMEAQTMEV------IPSDKENGVKTP-VWDEYQELL-NKHN--
+---GSQV-SMGTIERFA
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//3MVKA_frag.pdb
+EILKAILTVFPLDTYVDKPATL.EK------VPGD----TVATPIWDVYAGLI-KEHD--
+---ERGADAIGSLERFA
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//4A34A_frag.pdb smoothed
+ELLDSILYLMPLDSYVDSSIQFMNV-VSGDD-------------IWGTYRQMI-EGHG--
+----DLK-TITYLRRED
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//4A34A_frag.pdb
+ELLDSILYLMPLDSYVDSSIQFMNV-VSGDDI----------PKIWGTYRQMI-EGHG--
+---TDLK-TITYLRRED
+>sp|Q4QMI4|FUCM_HAEI8 L-fucose mutarotase OS=Haemophilus influenzae (strain 86-028NP) GN=fucU PE=3 SV=1
+ILLEAITPLFEFDAYVDAPLLMMKA------VEGD----SLDPNVETRYLNAI-ESAV--
+---GFTP-NLTSLERFD
+>sp|Q0I5M5|FUCM_HISS1 L-fucose mutarotase OS=Histophilus somni (strain 129Pt) GN=fucU PE=3 SV=1
+SLLTGIAPLFEFDTYTEAPLIMMQA------VEGD----SLDPAVEQSYLQTI-KSAV--
+---GNVP-KLARMDRFA
+>sp|A8AP17|FUCM_CITK8 L-fucose mutarotase OS=Citrobacter koseri (strain ATCC BAA-895 / CDC 4225-83 / SGSC4696) GN=fucU PE=3 SV=1
+DLLRAIIPLFELDSYA-PPLVMMAA------VEGD----SLDPTVEARYRDAL-SLQT--
+----PCP-EIVRIDRYA
+>tr|C0E0X6|C0E0X6_9CORY RbsD/FucU transport family protein OS=Corynebacterium matruchotii ATCC 33806 GN=CORMATOL_00626 PE=4 SV=1
+QLNQAIARLGHTDTFLPPQARIIDL-TLIHGVPSFEEKVTIATQTPDVIINTL-PADA--
+--------PITKIDHED
+>tr|K2DMM8|K2DMM8_9BACT Uncharacterized protein OS=uncultured bacterium GN=ACD_35C00158G0002 PE=4 SV=1
+QILSLLARIWPMLETVDTVLQVFDA------IKSNYNIGTNSRAVINNYAVLI-KYEAHI
+K--LRVPNAIGLIRTGD
+>tr|J3HTF4|J3HTF4_9RHIZ Fucose dissimilation pathway protein FucU OS=Phyllobacterium sp. YR531 GN=PMI41_01115 PE=4 SV=1
+PLLNAILSVMPLDTFVDDAAARMEI-VSPDEI----------PDVQIEMQAEIAEGKH--
+---WPMV-SITGERRFY
+>tr|A0A068SXH7|A0A068SXH7_RHIGA Neorhizobium galegae chromid pHAMBI540a, complete sequence OS=Rhizobium galegae GN=RG540_PA02690 PE=4 SV=1
+DAIRAILSVLPLDTPLQNSAGRMEV-MGADEIPT----------VQGEVQAEI-DRAE--
+----GRPSPMYGIERFA
+>tr|N1NQX3|N1NQX3_XENNE L-fucose mutarotase OS=Xenorhabdus nematophila F1 GN=XNC3_800005 PE=4 SV=1
+DISAVISRLGHTD-----QIMLSNT---GLPVPSSAQLTQGTPDLLSVFGVPL-TMIAQR
+G----------------
+>tr|R5ADF8|R5ADF8_9CLOT Fucose operon protein FucU OS=Clostridium sp. CAG:1013 GN=BN452_00623 PE=4 SV=1
+ELMEAILSLMPLDSYVEHPTTFMAV-LPNDPV----------PEIWDTYRAIV-TGER--
+----ALY-ANVILKKGV
+>tr|H3NGE3|H3NGE3_9LACT Uncharacterized protein OS=Dolosigranulum pigrum ATCC 51524 GN=HMPREF9703_01668 PE=4 SV=1
+ELLEAILEFFPLDTYSDDQAVLMQV-VAGDEA--------NQPEIWEDYHQSL-QASP--
+---EYAG-KLTHIDRFD
+>tr|E8LLY9|E8LLY9_9GAMM L-fucose mutarotase OS=Succinatimonas hippei YIT 12066 GN=HMPREF9444_01762 PE=4 SV=1
+ELLSEVLKLFPLD-HLTSPCHVMQV-SKGDQV----------P-IWNVYREII-AASG--
+---VNTD-LVEYERQEF
+>tr|D0YS03|D0YS03_9ACTO RbsD/FucU transport family protein OS=Mobiluncus mulieris 28-1 GN=HMPREF0578_0463 PE=4 SV=1
+DILAGVLELLPLDFYNDWQYALMNT-VEGDSR----------PDVWGTYDKIV-KNAA--
+----PQA-TLKLFERFD
+>tr|A0A0A8FL40|A0A0A8FL40_9ACTO Fucose isomerase OS=Trueperella pyogenes TP8 GN=X956_04590 PE=4 SV=1
+ELLDGVLALFPLDRYSQWQIGLMQT-VGDDPR----------PPVWESYADVI-ARHE--
+---GSYE-TRHFERYEF
+>tr|E4HP47|E4HP47_9ACTO RbsD/FucU transport family protein OS=Propionibacterium humerusii HL044PA1 GN=HMPREF9607_02552 PE=4 SV=1
+DLLRDILTLMPLDRYSDYQVGLMST-AGDDPR----------PDIWNIYEKLV-TGET--
+----ALY-GNVILRKGA
+>tr|C9Y9X7|C9Y9X7_9BURK Putative uncharacterized protein OS=Curvibacter putative symbiont of Hydra magnipapillata GN=Csp_A09280 PE=4 SV=1
+ELLKAVLSVFPLAEDVACPAAYMQV-CN---SPEGHRTAAQSS-VVDLLGRDG-LPAN--
+--------RVEAVERFA
+>tr|A7VPL4|A7VPL4_9FIRM RbsD/FucU transport family protein OS=[Clostridium] leptum DSM 753 GN=CLOLEP_00490 PE=4 SV=1
+ALLDAVLELFPIDTFVTQPVKLMQV-VPGDDV----------PEVVEEYKKIL-AKHD--
+---VDED-KIEYLERFD
+>tr|R5A6P8|R5A6P8_9CLOT L-fucose mutarotase OS=Clostridium sp. CAG:1013 GN=BN452_00712 PE=4 SV=1
+ELLEDILYFFPVDQAEADPVLMMES--------------SLESGAFERYQKLL-SKEEPC
+V-------TLKTVGRFD
+>tr|A0A069PQD7|A0A069PQD7_9BURK Fucose operon fucU protein OS=Burkholderia glathei GN=BG61_03610 PE=4 SV=1
+RTLDAVLSVLPLDRGAGTVTRMQAR-DRPDEIPADFKARIVTA-EARPYGNII-VRKG--
+--------TLP------
+>tr|C5C446|C5C446_BEUC1 RbsD or FucU transport OS=Beutenbergia cavernae (strain ATCC BAA-8 / DSM 12333 / NBRC 16432) GN=Bcav_1703 PE=4 SV=1
+QVVEALCTVLPLDDGPDAAV-LMDA-----------------PERQPVQDELV-TAAG--
+------APESSGIDRFA
+>tr|A0A0B2BEY0|A0A0B2BEY0_9ACTO Transport protein RbsD/FucU OS=Mumia flava GN=LK11_32965 PE=4 SV=1
+AVVRAVRSVLPLDD--TDPLDLMQP-ADDGRLPVQDEL-VTAARLDPAEARMV-ERHA--
+F--YDLARCFVVVRTGE
+>tr|H5UUX2|H5UUX2_9MICO Putative L-fucose mutarotase OS=Mobilicoccus pelagius NBRC 104925 GN=MOPEL_130_01370 PE=4 SV=1
+DLLAAVLELMPLDMTSDEQVILLGD------DDGN------PPPSWERYEPLF-AGDVEV
+R--ERGSSIVGALD---
+>tr|A0A094PQZ7|A0A094PQZ7_9ZZZZ Uncharacterized protein OS=freshwater metagenome GN=GM50_22225 PE=4 SV=1
+EMLKMILSLMPLDTFVDSPVLTMQV-VDKPD------------EILPFHKEQI-EGRD--
+------I-SVTSLERFD
+>tr|A0A0D7NMX0|A0A0D7NMX0_9BRAD Fucose-binding protein OS=Bradyrhizobium sp. LTSP849 GN=UB31_28795 PE=4 SV=1
+TAVRAIMTLYPLDDFDPDPVRVMMP-VDDDRVPDDRAVGLSRPDFYRAAAGVV-QVGD--
+---SRGKGVIS------
+>tr|V5NDK1|V5NDK1_9RHIZ RbsD/FucU transport protein OS=Aureimonas altamirensis PE=4 SV=1
+EAAREILKLYPLDSFVEAPVRRMGV-V--DDF----------SAVMDVHAAMV-INAA--
+---EGRSVRMETVERFA
+>tr|C4LFS0|C4LFS0_TOLAT L-fucose mutarotase OS=Tolumonas auensis (strain DSM 9187 / TA4) GN=Tola_1829 PE=4 SV=1
+ELLSGILELMPLDNFVPTPVGWMDP-V---DQPGT---------ILSVHHDVL-AACK-K
+A--EVGHYVIERFDYYA
+>tr|A0A059KJZ9|A0A059KJZ9_9BURK Transport protein RbsD/FucU OS=Sphaerotilus natans subsp. natans DSM 6575 GN=X805_29480 PE=4 SV=1
+DLLKAVLSLMNLDAAVEQPVAYMQV-CA---MPDGYRSRLQRDVV------AM-LEQDGH
+---ARSE-QCEAVERFA
+>tr|J0K8X5|J0K8X5_RHILT Fucose dissimilation pathway protein FucU OS=Rhizobium leguminosarum bv. trifolii WSM2012 GN=Rleg10DRAFT_2361 PE=4 SV=1
+DTIEAILAVMPLDHFVEQPLMHMED---------PDQAGILLP-VHSDVELLC-STAE--
+---QRGI-KSKPVERFA
+>tr|A0A0D7PQE2|A0A0D7PQE2_9BRAD Uncharacterized protein OS=Bradyrhizobium sp. LTSP857 GN=UP06_05140 PE=4 SV=1
+ELLEAVLSVMPLDDFVDNPVFCMEV-VGDDR-------------ALGRHLPMI-ERHA--
+---FYAR-AASAFR---
+>tr|A0A0D2T6A4|A0A0D2T6A4_9PROT Skermanella aerolata KACC 11604 strain 5416T-32 contig10, whole genome shotgun sequence OS=Skermanella aerolata KACC 11604 GN=N
+RALEAILSVMPLDDMLDTPYTRMVD-L----GSAEIEE----SDVCREFIQIV-ERHE--
+----GPRWQIGRLDRFG
+>tr|A0A0D6PDK7|A0A0D6PDK7_9PROT L-fucose mutarotase/transport protein RbsD/FucU OS=Acidocella aminolytica 101 = DSM 11237 GN=Aam_021_029 PE=4 SV=1
+AVFQAVLSVLPVDDFIPVPLLTMQV-V------GDPES---VPPAVAEVRRIA-QDAG--
+---VEPE-RIGTADRHD
+>tr|E2CL31|E2CL31_9RHOB L-fucose mutarotase OS=Roseibium sp. TrichSKD4 GN=TRICHSKD4_3815 PE=4 SV=1
+EAADIISALMPLDGFTDYAALRMEI----DGA----------PKVWDVLRPRL-PEGG--
+----ELK-SISHARKED
+>tr|A0A021VTP7|A0A021VTP7_9CELL Ribose ABC transporter OS=Actinotalea ferrariae CF5-4 GN=N866_00935 PE=4 SV=1
+AVLRAVLGVLPVDTFQDPPAWHM--------RPDD---GSRAP-SWEPVREAL-RVAE--
+---GRDV-AVGEVPRPE
+>tr|G8NVC3|G8NVC3_GRAMM RbsD or FucU transport OS=Granulicella mallensis (strain ATCC BAA-1857 / DSM 23137 / MP5ACTX8) GN=AciX8_2180 PE=4 SV=1
+AALRAVLSVLPLER--NDPEGCWRM------IAKSDPANEQ-P-IFLEFQQAI-AEFEDD
+R--ARGAAVLVTGERRP
+>tr|A0A0B4XAI3|A0A0B4XAI3_9RHIZ L-fucose mutarotase protein OS=Rhizobium gallicum bv. gallicum R602 GN=RGR602_PC00069 PE=4 SV=1
+QAIDAVLSVFPLDTPIQPSAGRMEV-IGKDEI----------PPIQQEVQAIV-DRAE--
+----GKPSPMYPVERMA
+>tr|A6WDZ4|A6WDZ4_KINRD RbsD or FucU transport OS=Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245 / SRS30216) GN=Krad_3570 PE=4 SV=1
+QLLAGLLNLRPLVTVLDVLEPLLGA------VPVEAADGAPVP-AHDDYARLL-GERA--
+--------ALSAVDRWA
+>tr|E6X8I3|E6X8I3_CELAD RbsD or FucU transport OS=Cellulophaga algicola (strain DSM 14237 / IC166 / ACAM 630) GN=Celal_3578 PE=4 SV=1
+TVLEGILEVCPVQGAIEKPAEANAE------IHGAYKK-LLGEVTWDFYDKIR-EPAT--
+----TLIIQTGEQRRFA
+>tr|A0A0D0QDC0|A0A0D0QDC0_9RHOB Wenxma_4, whole genome shotgun sequence OS=Wenxinia marina DSM 24838 GN=Wenmar_00692 PE=4 SV=1
+RAVRAVLSLMPLDGFVEDFAATMAP------VDAS----IGVPP---AVAAIQ-AEVD-R
+A--EGGSRPVPTVERFA
+>tr|V7EH35|V7EH35_9RHOB Fucose binding protein OS=Rhodobacter sp. CACIA14H1 GN=Q27BPR15_12525 PE=4 SV=1
+RLVDAILSLMPLDTFVPAPVSRMQV-VGNPDV----------VPIFARMQAVVAEGRP--
+---VQMR-SFAIIRTSD
+>tr|A0A068SXH2|A0A068SXH2_RHIGA Neorhizobium galegae chromid pHAMBI540a, complete sequence OS=Rhizobium galegae GN=RG540_PA02640 PE=4 SV=1
+RLTEAVLKLFPLDTFVDAPVKRMQV-VGAGQV----------P-IFATIQKAIAEGRS--
+---VQMK-SFAIVRTSD
+>tr|F0YHV1|F0YHV1_AURAN Putative uncharacterized protein OS=Aureococcus anophagefferens GN=AURANDRAFT_30986 PE=4 SV=1
+TALGAIASVLPVDLFVDDPLKHMSP------SPGNELPGTYCDADWQPVERFA-FYEEAR
+---KAFA-VVQCLERRP
+>tr|A0A066XGC2|A0A066XGC2_COLSU Putative RbsD/FucU transporter OS=Colletotrichum sublineola GN=CSUB01_10942 PE=4 SV=1
+-TLKGISPVISPDSVSSSPNKDLQK-ITKPRQPGI----TISTPLLDKYDGEV-QKTDRA
+L--KKGASS--------
+>tr|A0A0D5NRK7|A0A0D5NRK7_9BACL Uncharacterized protein OS=Paenibacillus beijingensis GN=VN24_05845 PE=4 SV=1
+DLLYALAKCFCLESYTHPDAAKIRL-NAG--IPTVTDHSSELP-IYSEFADII-GDGI--
+--------SLNRLERFE
+>tr|A0A090S9S0|A0A090S9S0_9VIBR L-fucose mutarotase OS=Vibrio variabilis GN=JCM19239_1884 PE=4 SV=1
+ELAKALAQLGHGDIVLVTDAGFP--------IPADAN--RVDLGIY--------------
+-----------------
+>tr|G9QJE4|G9QJE4_9BACI D-ribose pyranase OS=Bacillus smithii 7_3_47FAA GN=HMPREF1015_02592 PE=4 SV=1
+---------MKRHGIVNSSIALADL-GHTDIVIGD--LGLPVP-----------------
+---KDIP----------
+>tr|Z9JX07|Z9JX07_9MICO RbsD or FucU transport OS=Brachybacterium phenoliresistens GN=BF93_12095 PE=4 SV=1
+IALEEVCRMLPVDALLPGAATAHSW------IP-----------RGEFYAA-A-RSED--
+---VALCLATGDVRRFA
+>tr|A7NF45|A7NF45_ROSCS RbsD or FucU transport OS=Roseiflexus castenholzii (strain DSM 13941 / HLO8) GN=Rcas_2834 PE=4 SV=1
+QILAALLNLAPLLTVTDVLAVLADA------IPIESDTAPEPA-IFTEFRALL-PHL---
+--------TLQPLGRFA
+>tr|D2Q2A4|D2Q2A4_KRIFD RbsD or FucU transport OS=Kribbella flavida (strain DSM 17836 / JCM 10339 / NBRC 14399) GN=Kfla_6809 PE=4 SV=1
+DVLATLLDVVPVE-----AARVMAT-ATGEE-----------PDIYSRFRELL-PGT---
+--------TLLPLPRED
+>tr|D7CDK6|D7CDK6_STRBB Fuscose operon protein FucU OS=Streptomyces bingchenggensis (strain BCW-1) GN=SBI_09930 PE=4 SV=1
+TVLDVLLRAIPVESAARSPDLALTI------VTAD----------IRTYANLL-LTIGVR
+-----------------
+>tr|I6WS14|I6WS14_PROPF RbsD/FucU transport family protein OS=Propionibacterium propionicum (strain F0230a) GN=HMPREF9154_0927 PE=4 SV=1
+RILEVLKRTVPIEVGIEAPEV----------IPAHDEYRAALPPRWDFYDAAK-AEDV--
+--------TVVIVSADQ
+>tr|E8JK40|E8JK40_9ACTO RbsD or FucU transporter OS=Actinomyces sp. oral taxon 178 str. F0338 GN=HMPREF9005_1887 PE=4 SV=1
+QFLRALATAYPHKTGVGPACELVSL-NYAPMVPDPAAEPVGIP-IHDEFKEEL-PDVE--
+---------FSSLTRFD
+>tr|A0A074PU62|A0A074PU62_9MICO RbsD or FucU transport OS=Georgenia sp. SUBG003 GN=DA06_17815 PE=4 SV=1
+QVLEVLLAAVPVEA-----AAVM--------TPGD---GQEVP-AHTGYRAVL-GEVGWR
+A--CRGPDATGDQRLYA
+>tr|L8TNI4|L8TNI4_9MICC Transport protein RbsD/FucU OS=Arthrobacter sp. SJCon GN=G205_18414 PE=4 SV=1
+GLLAALAESYPHNTGAPASAVLIDA------VPIE--AAAVMTPPDGSWTEAI-KGYG-Q
+S--LGGAVPVTSYQRFD
+>tr|A0A0B8XV33|A0A0B8XV33_9SPHI L-fucose mutarotase OS=Pedobacter glucosidilyticus GN=fucU PE=4 SV=1
+-LLEILMELFPVNTYLNLTPGVLNV-VDKNFIPVEKAYIMQPPPIHHEFKQIL-DEDTPF
+D--VCLAIATAEVRRFA
+>tr|K0ZKY6|K0ZKY6_9ACTO Uncharacterized protein OS=Actinomyces turicensis ACS-279-V-Col4 GN=HMPREF9241_00012 PE=4 SV=1
+QFLRALAAAYPHTTGVSERCELISL-NAEIMVPAPDQPAVEIP-IHDEFKAQL-PDTE--
+---------FGELSRFD
+>tr|S0FFF7|S0FFF7_9FIRM Fucose dissimilation pathway protein FucU OS=[Clostridium] termitidis CT1112 GN=CTER_4894 PE=4 SV=1
+EILDRILIAYPLDSNTDTRLIYLNL-THGIPLVTDVLKETIAPAIFAEFGKIL-EDGI--
+----EFK-KLGRFEFYD
+>tr|J0N1H1|J0N1H1_9CLOT RbsD/FucU transport family protein OS=Clostridium sp. MSTE9 GN=HMPREF1141_1272 PE=4 SV=1
+CIHPGIMSALSLCGHGDKILIALNA-KSGDCINVEKAEDGEEPEILGEFRTLL-NGMELD
+C--VRLAISTGEKRTFA
+>tr|S0FSY3|S0FSY3_9FIRM Fucose dissimilation pathway protein FucU OS=[Clostridium] termitidis CT1112 GN=CTER_0580 PE=4 SV=1
+DILKAILVYLGLTSGIPEVTQVLEV-LKKVMLPGSEQ-----PPIFGEFKEIL-GGMD--
+---------LSGMERFD
+>tr|R5C6U3|R5C6U3_9FIRM Uncharacterized protein OS=Blautia hydrogenotrophica CAG:147 GN=BN499_02627 PE=4 SV=1
+EKSSGVKIFLGLGPGVPSVIEVLAA-IHSVMVPED----DREPEIFGEFRREL-PDLELE
+V--LKLAVSTGEQRTFA
+>tr|F0SHV6|F0SHV6_PLABD RbsD or FucU transport OS=Planctomyces brasiliensis (strain ATCC 49424 / DSM 5305 / JCM 21570 / NBRC 103401 / IFAM 1448) GN=Pla
+QVLETLLTAIPIDVVNTMGIPADDP-YAGQ---GD-------PPVWAEYRQIL-KDAGSE
+V-------ELEPIQKWD
+>tr|B4D5Y2|B4D5Y2_9BACT RbsD or FucU transport OS=Chthoniobacter flavus Ellin428 GN=CfE428DRAFT_4321 PE=4 SV=1
+QVLRTLLSALPID-----HVNTMGI------PPDDPYAQQGDPPVWAEYRQIV-AESG--
+---MKL--TLEPILKWD
+>tr|A0A0A5LQ12|A0A0A5LQ12_SERMA L-fucose mutarotase OS=Serratia marcescens GN=MC70_07580 PE=4 SV=1
+PLLAALAYACVTHAPKDATVVYLNL------APGT----LAAPPIEAEYRQLL-PAHCPD
+R--TLLVIASGEQRRFA
+>tr|A0A094XKM4|A0A094XKM4_ENTAE L-fucose mutarotase OS=Enterobacter aerogenes GN=KV34_23395 PE=4 SV=1
+QLLAALAFACRVNANADATLIQLNL-APGM-VPATYEKAEFTNTIASEYRELL-PTNCPY
+V--EREAIASGEQRRFA
+>tr|U2NFQ6|U2NFQ6_SERFO L-fucose mutarotase OS=Serratia fonticola AU-P3(3) GN=L580_4162 PE=4 SV=1
+QLLCALAYSFVTNSSKEATIVYLNL-APGDKVPQDFTNT-----IATEYQQLL-PDGCPQ
+E--TLLVIASGEMRRFA
+>tr|W0HUD8|W0HUD8_9ENTR L-fucose mutarotase OS=Sodalis sp. HS1 GN=Sant_2335 PE=4 SV=1
+QLLGSLAQLEKLLTYINVEKATLMA------SPDDFENT-----IEKEYQRLLAKSSD--
+---TLLVIASGETRRFA
+>tr|A0A078LEM0|A0A078LEM0_CITKO L-fucose mutarotase OS=Citrobacter koseri GN=fucU_1 PE=4 SV=1
+GLIGSVMILEKILGYINVEKATLMT------SPAE----FDNT-IEREYRGLL-SEMTEH
+V--ERNAIASGETRRFA
+>tr|V5FF53|V5FF53_9VIBR L-fucose mutarotase OS=Vibrio halioticoli NBRC 102217 GN=VHA01S_005_01140 PE=4 SV=1
+ELLSEIIYLLNATDVLNGVIQLINV-ESTSAWPDD----FDNT-IHSEYVRIL-PQGT--
+----EMKIATGETRRFA
+>tr|K9APB3|K9APB3_9MICO Transport protein RbsD/FucU OS=Brevibacterium casei S18 GN=C272_00545 PE=4 SV=1
+ELLAALLNVAPGLLTVDQLAPLAQT------IPIEAAEAGTAPAVVGAFYDLA-RSRD--
+---LGLVIATGDQRQYA
+>tr|A0A099S522|A0A099S522_9CLOT RbsD or FucU transport OS=Clostridium sp. HMP27 GN=DP68_12280 PE=4 SV=1
+QLINALAHCYPVDTVTDVLKVLADT------INIEKAQEGDEPSIFSEFRGIL-NNEI--
+--------ELDKLGRFE
+>tr|M5RA55|M5RA55_9PLAN RbsD or FucU transport OS=Rhodopirellula maiorica SM1 GN=RMSM_06711 PE=4 SV=1
+QVLEALLSAIPVE-----AIQTMQA-LDGD------------PPVWEDYRKTI-KNEG--
+---LDLEITIQTADQQR
+>tr|I0IEV2|I0IEV2_PHYMF Uncharacterized protein OS=Phycisphaera mikurensis (strain NBRC 102666 / KCTC 22515 / FYK2301M01) GN=PSMK_16310 PE=4 SV=1
+EILGVLARVLITDSTRRNPAAVCDA------VPVEAVAVMEDPPVWAHYRRVL-AERA-G
+F--TGGFDALQKFNREA
+>tr|D2EIQ0|D2EIQ0_PEDAC L-fucose mutarotase OS=Pediococcus acidilactici 7_4 GN=fucU PE=4 SV=1
+ELLDSILKLMPLDSYSDYQAIFMQV-VPGDQA----------PPIWEKYRDSI----G--
+---KSFK-NYTVKQIER
+>tr|A0A090SJP3|A0A090SJP3_9VIBR L-fucose mutarotase OS=Vibrio variabilis GN=JCM19239_1072 PE=4 SV=1
+-MKKSALINSELSYLVSTLGHTDEV------TICD--------------AGLI-AEEV--
+---QRIDLALTHL----
+>tr|G4A9Y4|G4A9Y4_AGGAC L-fucose mutarotase OS=Aggregatibacter actinomycetemcomitans serotype e str. SC1083 GN=SC1083_1657 PE=4 SV=1
+-MKKTIILNAQRSHCIATPGHTDGL------TLCD--AGLPIP-----------------
+--------T--------
+>tr|A0A0B8P9A2|A0A0B8P9A2_9VIBR L-fucose mutarotase OS=Vibrio sp. JCM 19232 GN=JCM19232_4134 PE=4 SV=1
+---------MKKSTLINSEISYLVA-TLGH---TDEDAGL--P-IQMRC-----------
+-----------------
+>tr|E9RRU2|E9RRU2_9FIRM Uncharacterized protein OS=Lachnospiraceae bacterium 6_1_37FAA GN=HMPREF0490_00171 PE=4 SV=1
+EMLTSLKALYPLDSYVQSPSMVMHY------VPEYYE-------MRDRCKAVV-QTGDCG
+H--AQCILIAGY-----
+>tr|U3HWU4|U3HWU4_PSEST L-fucose mutarotase OS=Pseudomonas stutzeri MF28 GN=L686_08250 PE=4 SV=1
+-------GERQLVSHDELKAACAKAR-----VPIRT--GECRP-----------------
+------YSNIALLAGVT
+>tr|A0A067QXC6|A0A067QXC6_ZOONE FucU-like protein OS=Zootermopsis nevadensis GN=L798_14915 PE=4 SV=1
+---------MPLDKYGDSPVTLMAV-TDADKT----------P-IWGTYQEIISEGRE--
+---VPMK-SLEYERAKN
+>tr|G6RCE9|G6RCE9_STREE Putative uncharacterized protein OS=Streptococcus pneumoniae GA17328 GN=SPAR49_2278 PE=4 SV=1
+---------MPLDSYVDSSIQFMNV-VSGDDI----------PKIWGTYRQMI-EGHG--
+---TDLK-TITYLRRED
+>tr|B7QXI8|B7QXI8_9RHOB RbsD or FucU transport OS=Ruegeria sp. R11 GN=RR11_3065 PE=4 SV=1
+---------MPLDSFVPDPALTMQV-VNAEAIPE----------AVTDFQRII-DQVA--
+----DNPARVQSLERFA
+>tr|A0A037XQZ5|A0A037XQZ5_RHIRD Fucose-binding protein (Fragment) OS=Rhizobium radiobacter GN=BW45_04740 PE=4 SV=1
+RAMKAILSVLPLDTPLQPSVGRMEV------MGAP----DQLEPVQAEVQREI-DAAE--
+---GKSA-PMYGIERFA
+>tr|D5RJK0|D5RJK0_9PROT RbsD/FucU transport family protein OS=Roseomonas cervicalis ATCC 49957 GN=fucU PE=4 SV=1
+AVLRAILSVLPIDDFIAHPVRSMQV------VDDA----AAVPEAVRAFTDVL-AQHG--
+-----LR-PPAPLERHA
+>tr|L7F7A5|L7F7A5_9ACTO Transporter, RbsD/FucU family OS=Streptomyces turgidiscabies Car8 GN=STRTUCAR8_01040 PE=4 SV=1
+GILEALARVLLADGHYPASTATGER-AAHVMVPPEGEP---EPPAIAEYRARL-APVPVG
+--------TLGRFEFYD
+>tr|D8M651|D8M651_BLAHO Singapore isolate B (sub-type 7) whole genome shotgun sequence assembly, scaffold_3 OS=Blastocystis hominis GN=GSBLH_T00003587001 PE=4 SV=1
+RILRGICKLLPLDQYVECPAKVMEK------MECDKD--MELP-IIEEYKKIL-A-----
+-----------------
+>tr|K1SZL6|K1SZL6_9ZZZZ Fucose operon protein FucU (Fragment) OS=human gut metagenome GN=LEA_13464 PE=4 SV=1
+-------------------------------------------PIWDEYKAIV-AKHD--
+---ERGNNAIGQIERFE
+>tr|A0A072C345|A0A072C345_RHILP Uncharacterized protein OS=Rhizobium leguminosarum bv. phaseoli CCGM1 GN=RLPCCGM1_p1533 PE=4 SV=1
+-----METLERFDFYDAAKRSFAIV-------------RTADP---GPYGCFI-FKKG--
+--------VV-------
+>tr|X1PSV2|X1PSV2_9ZZZZ Marine sediment metagenome DNA, contig: S06H3_S18633 (Fragment) OS=marine sediment metagenome GN=S06H3_52168 PE=4 SV=1
+-----VGKLERFKFYERASQSYCVVA----------------SSEQALYANII-LKKG--
+--------VV-------
+>tr|A0A090WTL4|A0A090WTL4_9FLAO L-fucose mutarotase OS=Algibacter lectus GN=JCM19274_735 PE=4 SV=1
+---------MERWTFYDK--------------------------IRDPNTTLI-I-----
+--------QTGEQRRFA
+>tr|A0A090SMR9|A0A090SMR9_9VIBR L-fucose mutarotase OS=Vibrio variabilis GN=JCM19239_5433 PE=4 SV=1
+EILFA-------DAHFPAHTFGKKV-IRCDGV-------SVATLLSGVL-----------
+--------PLFELDQ--
+>tr|A0A085G7G1|A0A085G7G1_9ENTR L-fucose mutarotase OS=Ewingella americana ATCC 33852 GN=GEAM_2808 PE=4 SV=1
+-----------------------NT-------------------IEAEYRQLL-PEHC--
+--------LIEHLEREC
+>tr|T0NQQ1|T0NQQ1_9SPHI Uncharacterized protein OS=Sphingobacterium sp. IITKGP-BTPF85 GN=L950_30575 PE=4 SV=1
+EMMD---VLREMDSYQDAELNYLDL-VKG--V--DKYKKEVKA-LWSKYEAIF-KKIDEA
+---SKLF-KVVVLKTES
+>tr|K5ZRN0|K5ZRN0_9PORP Uncharacterized protein OS=Parabacteroides goldsteinii CL02T12C30 GN=HMPREF1076_01021 PE=4 SV=1
+QTREGITTLYANEPYTEVLGTVKKM------VDNS----------LHVYAHIY-QDEELS
+I--NDLKTEITSIRHDD
+>tr|G0L9F1|G0L9F1_ZOBGA Hypothetical lipoprotein OS=Zobellia galactanivorans (strain DSM 12802 / CIP 106680 / NCIMB 13871 / Dsij) GN=zobellia_453 PE=4 
+ELQDQVKLLYPLQSHVETLISVKNI-IDGDLAPGDYRETLNRV-LGQKNVEKV-IHED--
+--------IITMLDKAS
+>tr|C8UZB8|C8UZB8_LACRG Uncharacterized protein OS=Lactobacillus rhamnosus (strain ATCC 53103 / GG) GN=LRHM_0361 PE=4 SV=1
+---------MKKGTVINTQLS-----------------------------QVI-ADMG--
+H--FDGK-TI-------
+>/home/iena/sigaroudi/PDB_PIPELINE/Qsub_3DComb/fragments/1OGDA/1OGDA_4_63_89//4A34A_frag.pdb
+ELLDSILYLMPLDSYVDSSIQFMNV-VSGDDI----------PKIWGTYRQMI-EGHG--
+---TDLK-TITYLRRED
