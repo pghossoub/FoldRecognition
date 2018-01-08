@@ -67,7 +67,7 @@ def false_align(orionPath, listFamille):
 
     for i in xrange(len(listFamille)):
         #for j in xrange(len(listFamille[i])):
-        for j in xrange(len(listFamille[i])/10):
+        for j in xrange(len(listFamille[i])):
 
             pos = listFamille[i][j]
             print pos
@@ -145,17 +145,19 @@ def align_To_Profile_AAINDEX():
 
     fileInDir = os.listdir(pathPos)
     for f in fileInDir:
-        out =  pathPos + f + ".AAINDEX58"
-        CMD_list = fasta2vector + " " + pathPos + f + " " + aaindex58 + " > " + out
-        print CMD_list
-        subprocess.call(CMD_list , shell = True)
+        if os.path.isfile(os.path.join(pathPos, f)):
+            out =  pathPos + f + ".AAINDEX58"
+            CMD_list = fasta2vector + " " + pathPos + f + " " + aaindex58 + " > " + out
+            print CMD_list
+            subprocess.call(CMD_list , shell = True)
 
     fileInDir = os.listdir(pathNeg)
     for f in fileInDir:
-        out =  pathNeg + f + ".AAINDEX58"
-        CMD_list = fasta2vector + " " + pathNeg + f + " " + aaindex58 + " > " + out
-        print CMD_list
-        subprocess.call(CMD_list , shell = True)
+        if os.path.isfile(os.path.join(pathNeg, f)):
+            out =  pathNeg + f + ".AAINDEX58"
+            CMD_list = fasta2vector + " " + pathNeg + f + " " + aaindex58 + " > " + out
+            print CMD_list
+            subprocess.call(CMD_list , shell = True)
 
 
 
