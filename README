@@ -1,0 +1,55 @@
+Titre: Reconnaissance de repliements d’Unité Protéique par
+apprentissage automatique des propriétés des acides aminées de
+familles alignées
+
+
+Auteur: Pierre Ghossoub
+
+
+Date: 08/01/2018
+
+
+Ce programme a pour but la génération d'alignements positifs et négatifs en utilisant mafft(VERSION 7.313 without extension),
+ainsi que la transformation des alignements en vecteur de propriétés AAINDEX (58)
+
+
+Il utilise mafft(VERSION 7.313 without extension) installé localement dans src/gelly.
+Il est nécessaire de changer les fichiers sur votre machine tel qu'il est indiqué dans le
+README de mafft-7.313-without-extensions.
+
+Il est nécessaire d'avoir la base de données Orion en local, même lacunaire
+
+
+Les scripts du dossier /gelly sont issus de http://www.dsimb.inserm.fr/~gelly/data/
+
+################################################################################################################################
+
+
+
+Les paramètres sont:
+
+"--op": help="Chemin du répertoire contenant le répertoire orion_files."
+Obligatoire
+
+"-f":	help="Ligne de début de lecture du fichier posAlignUp25-35.txt contenant les groupes de familles d'alignement positifs"
+
+Par défaut: 9 pour tests
+
+"-l": 	help="Ligne de fin de lecture du fichier posAlignUp25-35.txt contenant les groupes de familles d'alignement positifs"
+
+Par défaut: 10 pour tests
+
+
+
+Lancer dans le répertoire:
+
+python src/recognition.py --op "VOTRE CHEMIN DE LA BASE DE DONNEES ORION"
+
+
+
+################################################################################################################################
+
+Créer "selected_AAINDEX58_reformated" à partir de "selected_aaindex1_reformated"
+est reproductible avec le script "convert_AAINDEX_to_58.py"
+
+src/convert_AAINDEX_to_58.py

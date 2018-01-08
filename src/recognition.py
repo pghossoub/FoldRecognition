@@ -107,6 +107,9 @@ def false_align(orionPath, listFamille):
 
                 keepOnlyNegative("data/bd/align_positif/" + pos + "_mafft2.fas" , sortieTMP, pos)
 
+    #CMD_list = ("rm", "data/bd/*TMP.mafft2.fas")
+    #subprocess.call(CMD_list)
+    os.system("rm data/bd/*TMP.mafft2.fas")
 
 
 
