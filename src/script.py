@@ -135,6 +135,30 @@ def keepOnlyNegative(nomFichierPos, nomFichierTmp, nomAlignement):
     
 
 
+def align_To_Profile_AAINDEX():
+
+    pathPos = "data/bd/align_positif/"
+    pathNeg = "data/bd/align_negatif/"
+
+    fasta2vector = "perl src/gelly/fasta2vector_wgap.pl"
+    aaindex58 = "data/selected_AAINDEX58_reformated"
+
+    fileInDir = os.listdir(pathPos)
+    for f in fileInDir:
+        out =  pathPos + f + ".AAINDEX58"
+        CMD_list = fasta2vector + " " + pathPos + f + " " + aaindex58 + " > " + out
+        print CMD_list
+        subprocess.call(CMD_list , shell = True)
+
+    fileInDir = os.listdir(pathNeg)
+    for f in fileInDir:
+        out =  pathNeg + f + ".AAINDEX58"
+        CMD_list = fasta2vector + " " + pathNeg + f + " " + aaindex58 + " > " + out
+        print CMD_list
+        subprocess.call(CMD_list , shell = True)
+
+
+
 if __name__ == "__main__":
 
     
@@ -148,5 +172,4 @@ if __name__ == "__main__":
     #print parametres["OrionPath"]
     false_align(parametres["OrionPath"], listFamille)
     
-
-    #keepOnlyNegative('/home/sdv/m2bi/pghossoub/Documents/proj_long/FoldRecognition/data/bd/align_positif/1VCDA_1_100_126_mafft2.fas','/home/sdv/m2bi/pghossoub/Documents/proj_long/FoldRecognition/data/bd/1VCDA_1_100_126TMP.mafft2.fas', "1VCDA_1_100_126")
+    align_To_Profile_AAINDEX()
